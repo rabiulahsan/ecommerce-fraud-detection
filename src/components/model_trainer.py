@@ -88,11 +88,11 @@ class ModelTrainer:
 
             logging.info(f"Best found model on both training and testing dataset")
 
-            # Save the best model
-            save_object(
-                file_path=self.model_trainer_config.trained_model_path,
-                obj=best_model
-            )
+            # # Save the best model
+            # save_object(
+            #     file_path=self.model_trainer_config.trained_model_path,
+            #     obj=best_model
+            # )
 
             # Return the report, best model name, and R2 score for the best model
             return model_report, best_model_name, best_model_score
