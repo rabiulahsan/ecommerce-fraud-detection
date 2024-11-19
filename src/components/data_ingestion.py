@@ -5,6 +5,7 @@ import pandas as pd
 from src.exception import CustomException
 from src.logger import logging
 from src.components.data_transformation import DataTransformation
+from src.components.model_trainer import ModelTrainer
 
 
 class DataIngestionConfig:
@@ -36,4 +37,7 @@ if __name__ == '__main__':
     raw_data_path = obj.initiate_data_ingestion()
 
     data_transformation = DataTransformation()
-    processed_data = data_transformation.initiate_data_transformation(raw_data_path)
+    processed_data,_ = data_transformation.initiate_data_transformation(raw_data_path)
+
+    model_trainer = ModelTrainer()
+    print(model_trainer.initiate_model_trainer(processed_data))
