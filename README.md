@@ -1,1 +1,1 @@
-## this is an edn to end ml project for detecitng fraud in e-commerce
+## This is an end to end ml project for detecitng fraud in e-commerce

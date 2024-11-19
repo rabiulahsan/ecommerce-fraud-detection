@@ -1,0 +1,801 @@
+Customer_ID,Customer_Age,Customer_Location,Customer_Tier,Purchase_History,Transaction_Amount,Payment_Method,Transaction_Status,Fraud,Product_Category,Device_Type,IP_Address,High_Risk_Countries,Mismatch_Between_IP_And_Location,Multiple_Transactions
+CUST_156,25,India,new,17,260.81,PayPal,successful,0.0,home,desktop,244.166.103.86,0,0.0,0.0
+CUST_13,20,UK,returning,20,190.22,debit card,successful,0.0,clothing,mobile,70.218.78.200,0,0.0,0.0
+CUST_90,34,India,new,35,667.89,bank transfer,successful,1.0,sports,desktop,192.84.184.229,0,0.0,3.0
+CUST_166,60,USA,returning,18,517.69,PayPal,successful,1.0,home,mobile,168.175.227.171,0,1.0,3.0
+CUST_8,64,Germany,premium,40,233.1,PayPal,successful,0.0,clothing,mobile,164.1.124.247,0,0.0,2.0
+CUST_145,34,India,new,19,675.23,bank transfer,pending,0.0,other,desktop,217.105.193.201,0,0.0,0.0
+CUST_68,26,Other,new,41,31.46,bank transfer,pending,0.0,home,tablet,208.162.49.90,0,,2.0
+CUST_167,44,Germany,returning,20,269.52,debit card,successful,0.0,clothing,desktop,204.78.225.230,0,0.0,2.0
+CUST_19,21,Germany,new,6,798.25,bank transfer,failed,0.0,clothing,tablet,243.161.2.92,0,0.0,0.0
+CUST_168,46,Canada,premium,1,799.49,credit card,successful,1.0,clothing,desktop,174.23.95.58,0,0.0,2.0
+CUST_169,46,India,new,5,608.88,credit card,successful,0.0,other,mobile,150.152.23.103,0,0.0,0.0
+CUST_170,46,USA,new,23,941.04,credit card,successful,1.0,other,tablet,128.162.161.34,0,1.0,2.0
+CUST_171,41,Germany,new,49,50.74,credit card,successful,0.0,home,desktop,78.24.11.4,0,0.0,0.0
+CUST_172,48,UK,new,49,136.36,bank transfer,successful,0.0,other,tablet,175.172.46.74,0,0.0,0.0
+CUST_135,64,India,returning,20,255.32,PayPal,successful,0.0,home,mobile,2.215.105.178,0,0.0,0.0
+CUST_2,53,USA,new,27,322.8,PayPal,successful,0.0,other,tablet,189.188.195.130,0,0.0,2.0
+CUST_53,68,India,new,42,355.99,credit card,pending,0.0,electronics,mobile,149.219.61.254,0,0.0,2.0
+CUST_38,29,Canada,returning,28,175.3,debit card,successful,0.0,home,desktop,220.14.2.234,0,0.0,1.0
+CUST_173,68,UK,returning,17,921.53,credit card,successful,0.0,home,desktop,151.211.243.232,0,0.0,0.0
+CUST_32,46,India,premium,47,951.66,debit card,successful,0.0,clothing,mobile,108.252.161.201,0,0.0,0.0
+CUST_174,61,Canada,premium,42,950.4,debit card,pending,0.0,other,desktop,200.63.191.241,0,0.0,1.0
+CUST_71,27,Canada,premium,43,17.72,credit card,successful,1.0,home,mobile,149.7.47.109,0,0.0,2.0
+CUST_175,57,Germany,new,4,422.44,debit card,successful,1.0,sports,tablet,102.205.231.204,0,0.0,1.0
+CUST_41,28,India,returning,44,861.51,debit card,successful,0.0,home,mobile,99.143.52.213,0,0.0,2.0
+CUST_46,35,Canada,premium,49,750.13,PayPal,pending,1.0,clothing,tablet,168.209.245.28,0,1.0,1.0
+CUST_176,22,UK,new,50,515.33,credit card,failed,0.0,clothing,mobile,141.157.142.32,0,,1.0
+CUST_94,46,India,new,10,602.4,bank transfer,successful,0.0,electronics,mobile,238.43.171.255,0,0.0,2.0
+CUST_162,39,USA,returning,30,219.75,credit card,successful,1.0,electronics,mobile,99.13.20.248,0,0.0,5.0
+CUST_177,65,Germany,new,10,515.58,bank transfer,successful,0.0,home,tablet,247.124.164.206,0,1.0,1.0
+CUST_178,58,Other,new,32,567.38,bank transfer,successful,0.0,home,desktop,132.19.122.1,0,0.0,1.0
+CUST_179,62,India,premium,30,110.64,credit card,successful,0.0,home,mobile,146.124.190.52,0,0.0,1.0
+CUST_59,60,India,returning,46,814.04,PayPal,successful,0.0,home,mobile,163.220.87.59,0,0.0,2.0
+CUST_180,66,India,premium,31,790.94,bank transfer,successful,0.0,sports,desktop,42.90.64.20,0,0.0,0.0
+CUST_71,27,Canada,premium,43,130.18,debit card,successful,0.0,other,desktop,246.135.254.196,0,0.0,1.0
+CUST_181,39,USA,returning,30,655.57,credit card,successful,0.0,sports,mobile,9.51.102.170,1,0.0,0.0
+CUST_135,64,India,returning,20,943.23,PayPal,successful,0.0,sports,tablet,52.126.248.100,0,0.0,2.0
+CUST_47,61,Canada,premium,36,342.31,PayPal,successful,0.0,other,mobile,164.7.108.164,0,0.0,0.0
+CUST_182,46,Germany,returning,14,556.22,debit card,successful,,sports,mobile,154.184.154.229,0,0.0,2.0
+CUST_157,30,Other,new,7,591.65,bank transfer,failed,0.0,electronics,desktop,155.198.221.131,0,0.0,1.0
+CUST_183,37,Canada,new,3,925.13,bank transfer,successful,0.0,sports,desktop,143.139.217.24,0,0.0,1.0
+CUST_67,31,Canada,new,26,985.97,bank transfer,successful,0.0,electronics,mobile,158.53.46.122,1,0.0,2.0
+CUST_137,58,Canada,new,46,878.99,PayPal,successful,0.0,other,mobile,35.63.114.156,0,0.0,1.0
+CUST_184,65,Other,returning,50,929.81,credit card,successful,1.0,electronics,mobile,135.164.24.218,0,0.0,4.0
+CUST_155,65,UK,premium,22,428.02,credit card,successful,0.0,other,tablet,206.124.199.103,0,0.0,1.0
+CUST_164,65,India,new,10,891.15,PayPal,failed,0.0,home,tablet,19.66.203.175,0,0.0,0.0
+CUST_158,37,Canada,new,9,856.09,debit card,pending,0.0,electronics,desktop,83.70.173.202,0,0.0,2.0
+CUST_185,51,USA,new,21,520.95,bank transfer,successful,0.0,sports,desktop,139.120.174.51,0,0.0,0.0
+CUST_186,66,Canada,returning,8,602.61,PayPal,successful,0.0,other,tablet,172.86.188.54,0,0.0,2.0
+CUST_64,61,USA,premium,2,800.93,bank transfer,successful,0.0,clothing,mobile,227.206.227.66,0,0.0,0.0
+CUST_187,61,Other,returning,44,695.22,debit card,successful,0.0,electronics,mobile,100.16.185.148,0,0.0,0.0
+CUST_188,27,Canada,returning,48,833.44,debit card,successful,0.0,electronics,mobile,137.163.217.43,0,0.0,1.0
+CUST_189,64,Canada,premium,1,230.42,credit card,successful,0.0,sports,tablet,239.157.70.226,0,0.0,1.0
+CUST_190,38,India,new,11,332.94,credit card,successful,1.0,other,mobile,21.189.5.156,0,0.0,3.0
+CUST_138,44,UK,new,23,725.91,bank transfer,failed,0.0,other,mobile,195.242.106.47,0,0.0,1.0
+CUST_191,69,Canada,new,31,648.18,debit card,successful,0.0,electronics,tablet,122.202.198.192,0,0.0,1.0
+CUST_13,20,UK,returning,20,222.58,debit card,successful,0.0,home,mobile,219.189.215.18,0,0.0,0.0
+CUST_58,41,Germany,new,46,998.03,bank transfer,successful,0.0,other,desktop,43.159.13.17,0,0.0,2.0
+CUST_8,64,Germany,premium,40,35.18,PayPal,successful,0.0,electronics,mobile,246.15.149.18,0,0.0,1.0
+CUST_192,41,Germany,returning,35,856.1,PayPal,successful,0.0,sports,mobile,18.246.209.28,0,0.0,2.0
+CUST_193,37,USA,new,16,283.78,bank transfer,successful,0.0,clothing,desktop,38.126.228.167,0,0.0,0.0
+CUST_194,49,Canada,new,21,419.49,PayPal,successful,1.0,clothing,desktop,43.48.47.121,0,0.0,1.0
+CUST_40,59,UK,new,19,594.34,credit card,successful,0.0,electronics,mobile,106.0.179.95,0,0.0,1.0
+CUST_150,44,UK,new,16,241.21,credit card,successful,0.0,electronics,desktop,57.190.16.87,0,0.0,2.0
+CUST_82,62,USA,returning,19,698.84,debit card,successful,0.0,sports,tablet,245.253.17.10,0,0.0,2.0
+CUST_158,37,Canada,new,9,614.26,debit card,successful,1.0,electronics,mobile,70.112.32.142,0,0.0,2.0
+CUST_146,21,USA,returning,4,774.46,PayPal,successful,0.0,other,desktop,18.248.56.195,0,0.0,0.0
+CUST_123,46,UK,new,39,791.8,PayPal,successful,0.0,electronics,tablet,67.180.166.9,0,0.0,0.0
+CUST_164,65,India,new,10,330.29,credit card,successful,1.0,sports,tablet,82.4.105.175,0,0.0,2.0
+CUST_143,32,USA,premium,34,323.04,bank transfer,successful,0.0,other,mobile,94.146.116.89,0,0.0,0.0
+CUST_195,51,Other,returning,13,537.79,PayPal,successful,0.0,clothing,mobile,220.138.186.5,0,0.0,2.0
+CUST_196,60,Germany,returning,12,984.19,debit card,successful,1.0,home,tablet,3.43.168.195,0,0.0,4.0
+CUST_67,31,Canada,new,26,26.98,bank transfer,successful,0.0,clothing,mobile,238.1.229.195,0,0.0,1.0
+CUST_29,48,Other,returning,37,44.43,PayPal,successful,,clothing,tablet,193.180.0.67,0,0.0,4.0
+CUST_197,57,UK,returning,16,979.91,bank transfer,successful,0.0,other,desktop,177.238.241.60,0,0.0,0.0
+CUST_134,24,Germany,new,15,210.28,PayPal,successful,,other,tablet,90.83.249.115,0,0.0,0.0
+CUST_198,38,India,new,23,293.17,bank transfer,successful,0.0,clothing,mobile,197.198.15.37,0,1.0,0.0
+CUST_46,35,Canada,premium,49,372.58,credit card,successful,0.0,electronics,desktop,28.132.170.119,0,0.0,1.0
+CUST_199,46,USA,premium,28,602.86,credit card,successful,0.0,clothing,tablet,192.31.101.239,0,0.0,0.0
+CUST_22,37,USA,returning,3,97.87,PayPal,successful,0.0,clothing,mobile,5.187.23.42,1,1.0,2.0
+CUST_154,64,USA,new,14,977.72,credit card,successful,0.0,electronics,mobile,153.211.244.82,0,0.0,2.0
+CUST_1,39,USA,new,15,149.29,credit card,successful,0.0,clothing,mobile,45.235.27.199,0,0.0,1.0
+CUST_37,33,Germany,returning,49,901.53,PayPal,successful,0.0,clothing,tablet,131.73.32.56,0,0.0,2.0
+CUST_78,30,UK,premium,35,36.46,credit card,successful,0.0,other,desktop,251.44.223.143,0,0.0,1.0
+CUST_13,20,UK,returning,20,623.22,credit card,successful,0.0,electronics,tablet,193.187.247.77,0,0.0,2.0
+CUST_163,69,Other,returning,17,882.96,debit card,successful,0.0,home,desktop,110.182.105.99,0,0.0,2.0
+CUST_67,31,Canada,new,26,509.17,credit card,successful,0.0,home,mobile,200.163.78.189,0,0.0,2.0
+CUST_200,36,Canada,new,11,844.58,PayPal,successful,1.0,other,tablet,130.163.191.69,0,0.0,3.0
+CUST_185,51,USA,new,21,135.41,credit card,successful,1.0,sports,tablet,125.193.253.98,1,0.0,5.0
+CUST_32,46,India,premium,47,200.88,credit card,successful,0.0,other,mobile,193.106.29.132,0,0.0,2.0
+CUST_127,49,India,returning,32,560.33,PayPal,successful,0.0,home,tablet,55.105.0.75,1,0.0,2.0
+CUST_201,70,USA,new,34,376.57,credit card,successful,0.0,home,mobile,79.249.30.80,0,0.0,0.0
+CUST_157,30,Other,new,7,74.06,credit card,successful,0.0,other,desktop,60.165.5.76,0,0.0,0.0
+CUST_202,61,Germany,returning,32,480.44,PayPal,successful,0.0,other,desktop,59.151.33.197,0,0.0,1.0
+CUST_5,26,India,premium,39,262.66,debit card,successful,0.0,sports,mobile,253.194.232.222,0,0.0,1.0
+CUST_170,46,USA,new,23,219.92,debit card,successful,0.0,sports,desktop,108.234.71.54,0,0.0,2.0
+CUST_203,48,USA,returning,9,720.7,credit card,successful,,sports,mobile,179.138.206.145,0,0.0,1.0
+CUST_204,69,USA,returning,37,179.31,bank transfer,successful,0.0,home,desktop,5.10.225.98,0,0.0,2.0
+CUST_151,23,Germany,returning,30,614.62,debit card,successful,0.0,sports,desktop,36.245.169.201,0,0.0,1.0
+CUST_67,31,Canada,new,26,371.22,debit card,successful,0.0,sports,mobile,202.56.57.60,0,0.0,2.0
+CUST_205,22,USA,new,31,76.54,debit card,successful,,sports,mobile,163.55.48.83,0,0.0,1.0
+CUST_206,69,Other,premium,39,744.04,bank transfer,successful,0.0,other,mobile,223.15.65.128,0,0.0,1.0
+CUST_33,61,Canada,new,1,695.53,PayPal,failed,0.0,electronics,desktop,35.24.182.246,0,0.0,0.0
+CUST_117,30,USA,premium,11,586.4,debit card,failed,0.0,electronics,tablet,228.50.120.245,0,0.0,1.0
+CUST_207,55,Germany,new,40,370.42,bank transfer,successful,0.0,electronics,desktop,243.15.3.28,0,0.0,0.0
+CUST_21,26,Canada,new,32,98.63,credit card,pending,0.0,other,tablet,78.139.4.129,0,0.0,2.0
+CUST_161,25,Germany,new,35,815.95,bank transfer,successful,1.0,other,tablet,213.225.127.203,0,0.0,3.0
+CUST_111,55,Other,returning,50,298.25,credit card,successful,1.0,sports,mobile,31.65.78.69,0,,5.0
+CUST_147,62,India,new,39,411.41,PayPal,successful,0.0,other,mobile,126.167.212.184,0,0.0,2.0
+CUST_78,30,UK,premium,35,651.14,bank transfer,successful,0.0,home,desktop,64.103.98.99,0,0.0,2.0
+CUST_147,62,India,new,39,547.66,PayPal,successful,1.0,other,mobile,217.123.105.33,0,0.0,4.0
+CUST_129,20,USA,new,47,21.36,credit card,successful,0.0,electronics,mobile,176.0.146.33,0,0.0,0.0
+CUST_115,42,India,returning,38,730.98,bank transfer,successful,,sports,mobile,203.218.249.162,0,0.0,0.0
+CUST_44,35,UK,returning,33,379.1,credit card,failed,0.0,home,tablet,188.127.115.26,0,0.0,2.0
+CUST_208,64,UK,returning,34,434.14,PayPal,successful,0.0,electronics,tablet,190.172.80.75,0,0.0,2.0
+CUST_172,48,UK,new,49,950.97,debit card,pending,0.0,clothing,tablet,45.127.241.68,0,0.0,2.0
+CUST_75,22,USA,returning,23,857.12,bank transfer,successful,0.0,home,desktop,220.69.40.138,1,0.0,0.0
+CUST_123,46,UK,,39,676.5,credit card,successful,0.0,home,tablet,253.246.168.193,0,0.0,0.0
+CUST_94,46,India,new,10,913.24,credit card,successful,0.0,clothing,mobile,36.24.75.159,0,1.0,2.0
+CUST_209,65,UK,premium,20,557.66,credit card,successful,0.0,electronics,tablet,36.239.8.70,0,0.0,0.0
+CUST_77,57,USA,returning,43,910.39,PayPal,successful,0.0,electronics,mobile,184.34.140.50,0,0.0,2.0
+CUST_210,41,USA,returning,49,168.82,bank transfer,successful,0.0,electronics,tablet,202.195.150.239,0,0.0,2.0
+CUST_207,55,Germany,new,40,644.72,bank transfer,successful,0.0,clothing,mobile,5.254.188.156,1,0.0,2.0
+CUST_9,64,Canada,returning,41,779.81,PayPal,failed,0.0,electronics,desktop,34.38.221.50,0,0.0,1.0
+CUST_211,51,Canada,premium,36,391.69,PayPal,successful,0.0,other,mobile,48.105.81.197,0,0.0,1.0
+CUST_212,53,Canada,returning,39,307.75,bank transfer,successful,0.0,other,tablet,22.52.190.226,0,0.0,2.0
+CUST_119,26,USA,new,11,111.97,debit card,successful,1.0,other,desktop,248.170.209.97,0,0.0,4.0
+CUST_213,60,USA,returning,5,945.81,debit card,successful,0.0,sports,desktop,37.211.107.242,0,0.0,1.0
+CUST_214,39,USA,returning,40,783.26,debit card,successful,0.0,sports,mobile,106.222.142.5,0,0.0,1.0
+CUST_215,55,Germany,new,7,787.35,credit card,successful,0.0,electronics,mobile,171.247.166.220,0,0.0,0.0
+CUST_17,37,USA,premium,47,719.56,debit card,successful,1.0,other,mobile,227.207.48.58,0,,3.0
+CUST_216,34,Germany,premium,4,842.29,bank transfer,failed,0.0,home,desktop,144.73.106.31,0,0.0,2.0
+CUST_127,49,India,returning,32,561.36,bank transfer,successful,0.0,clothing,mobile,160.156.147.32,0,0.0,0.0
+CUST_118,56,UK,returning,31,860.34,bank transfer,successful,0.0,electronics,desktop,61.188.80.48,0,0.0,1.0
+CUST_217,23,Other,returning,38,122.79,bank transfer,successful,1.0,clothing,desktop,77.242.69.143,0,0.0,5.0
+CUST_15,63,Canada,new,16,290.35,debit card,successful,0.0,home,tablet,81.57.113.103,0,0.0,0.0
+CUST_175,57,Germany,,4,680.63,debit card,successful,1.0,sports,tablet,182.171.239.51,0,0.0,3.0
+CUST_218,33,UK,new,4,790.46,PayPal,successful,0.0,clothing,mobile,218.215.218.54,0,0.0,2.0
+CUST_167,44,Germany,returning,20,964.27,credit card,pending,0.0,electronics,mobile,83.196.50.204,0,0.0,1.0
+CUST_106,40,USA,new,10,155.9,credit card,successful,0.0,electronics,desktop,221.99.194.192,0,0.0,2.0
+CUST_216,34,Germany,premium,4,838.2,bank transfer,successful,0.0,other,tablet,107.205.39.56,0,0.0,2.0
+CUST_219,43,Other,returning,1,336.09,credit card,failed,1.0,home,tablet,89.91.107.147,0,0.0,4.0
+CUST_220,18,Canada,premium,25,14.33,PayPal,successful,0.0,clothing,tablet,135.198.65.176,0,0.0,1.0
+CUST_120,20,Canada,new,37,629.84,PayPal,failed,1.0,other,mobile,22.7.77.99,0,0.0,5.0
+CUST_64,61,USA,premium,2,813.98,credit card,pending,0.0,home,desktop,232.63.224.94,0,,0.0
+CUST_221,54,UK,new,41,28.31,PayPal,successful,0.0,clothing,mobile,140.172.210.33,0,0.0,1.0
+CUST_23,61,Germany,new,11,278.07,PayPal,successful,1.0,home,desktop,225.236.97.115,0,0.0,1.0
+CUST_218,33,UK,new,4,824.91,bank transfer,successful,0.0,other,desktop,3.36.110.42,0,0.0,0.0
+CUST_222,39,Other,premium,5,690.14,PayPal,failed,1.0,clothing,mobile,121.39.244.22,0,0.0,4.0
+CUST_164,65,India,new,10,218.94,credit card,successful,,home,mobile,104.126.127.231,0,0.0,0.0
+CUST_7,55,Canada,returning,4,268.39,PayPal,successful,0.0,home,tablet,164.121.189.45,0,0.0,0.0
+CUST_176,22,UK,new,50,258.3,debit card,failed,0.0,clothing,mobile,54.21.101.97,0,0.0,2.0
+CUST_223,30,USA,new,2,164.73,debit card,successful,0.0,home,desktop,121.91.29.204,0,0.0,1.0
+CUST_196,60,Germany,returning,12,284.4,bank transfer,successful,0.0,sports,mobile,32.114.238.79,0,0.0,0.0
+CUST_224,62,India,returning,3,250.76,debit card,successful,0.0,electronics,mobile,157.4.24.99,0,0.0,2.0
+CUST_215,55,Germany,new,7,711.96,bank transfer,successful,0.0,clothing,desktop,197.226.217.225,0,1.0,1.0
+CUST_75,22,USA,returning,23,824.33,bank transfer,successful,0.0,home,mobile,196.179.173.101,0,0.0,2.0
+CUST_225,51,USA,returning,24,640.1,credit card,pending,0.0,sports,tablet,74.19.4.21,0,0.0,2.0
+CUST_206,69,Other,premium,39,695.63,debit card,successful,0.0,home,desktop,174.181.99.48,0,0.0,0.0
+CUST_187,61,Other,returning,44,124.55,PayPal,successful,0.0,home,mobile,36.254.19.63,0,0.0,2.0
+CUST_226,49,Germany,,9,423.92,debit card,pending,0.0,clothing,tablet,116.168.84.220,0,0.0,2.0
+CUST_121,56,Other,new,42,175.23,bank transfer,failed,0.0,clothing,tablet,229.55.203.28,1,0.0,1.0
+CUST_227,21,UK,returning,35,347.13,PayPal,successful,0.0,electronics,tablet,124.172.43.170,0,0.0,1.0
+CUST_228,49,Other,new,20,338.02,PayPal,successful,0.0,clothing,tablet,37.142.88.14,0,0.0,2.0
+CUST_206,69,Other,premium,39,765.75,debit card,successful,0.0,other,desktop,32.225.53.38,0,0.0,2.0
+CUST_158,37,Canada,new,9,456.05,bank transfer,successful,0.0,electronics,mobile,55.175.186.222,0,0.0,1.0
+CUST_229,68,Other,new,35,694.35,credit card,successful,0.0,home,mobile,1.117.143.2,0,0.0,2.0
+CUST_230,67,UK,new,4,889.6,credit card,failed,1.0,electronics,mobile,253.121.35.76,1,0.0,5.0
+CUST_103,56,Germany,returning,23,743.61,credit card,successful,0.0,other,desktop,24.129.172.147,0,0.0,0.0
+CUST_56,69,USA,new,21,517.51,credit card,successful,0.0,electronics,tablet,176.147.146.117,0,0.0,1.0
+CUST_56,69,USA,new,21,913.41,credit card,successful,0.0,sports,desktop,167.38.78.244,0,0.0,1.0
+CUST_185,51,USA,new,21,157.97,bank transfer,successful,0.0,clothing,mobile,129.248.146.176,0,0.0,1.0
+CUST_184,65,Other,returning,50,290.17,debit card,successful,0.0,other,mobile,2.225.53.16,0,0.0,1.0
+CUST_231,51,Germany,new,3,420.59,PayPal,successful,0.0,clothing,mobile,22.147.58.10,0,0.0,0.0
+CUST_56,69,USA,new,21,497.98,debit card,successful,0.0,electronics,tablet,16.88.27.76,0,0.0,0.0
+CUST_108,27,India,premium,6,152.08,bank transfer,pending,0.0,clothing,mobile,56.210.247.160,0,0.0,0.0
+CUST_97,70,India,new,13,909.95,PayPal,successful,1.0,electronics,mobile,184.132.164.170,0,0.0,2.0
+CUST_98,62,UK,new,11,303.72,credit card,successful,1.0,home,tablet,151.254.97.193,0,0.0,4.0
+CUST_232,41,UK,returning,24,578.22,bank transfer,pending,0.0,home,tablet,105.81.34.9,0,0.0,1.0
+CUST_213,60,USA,returning,5,785.41,bank transfer,pending,1.0,sports,mobile,25.198.101.90,0,0.0,
+CUST_76,63,UK,returning,46,781.88,bank transfer,successful,0.0,clothing,desktop,184.83.79.57,0,0.0,0.0
+CUST_233,48,Other,returning,12,472.9,PayPal,successful,0.0,home,mobile,84.111.32.83,0,0.0,2.0
+CUST_107,52,USA,new,22,940.38,bank transfer,successful,0.0,electronics,mobile,171.244.242.78,0,1.0,2.0
+CUST_63,62,USA,returning,19,109.42,credit card,successful,0.0,electronics,tablet,95.47.34.7,0,0.0,
+CUST_37,33,Germany,returning,49,464.5,PayPal,pending,0.0,other,desktop,86.91.130.127,0,,2.0
+CUST_234,30,UK,returning,46,147.12,credit card,successful,0.0,home,desktop,109.238.44.118,0,0.0,1.0
+CUST_235,47,USA,returning,8,436.27,debit card,successful,0.0,home,mobile,63.22.62.138,0,0.0,2.0
+CUST_207,55,Germany,new,40,868.58,PayPal,successful,1.0,electronics,desktop,67.21.175.24,0,1.0,4.0
+CUST_41,28,India,returning,44,967.83,PayPal,successful,0.0,other,tablet,147.98.94.93,0,0.0,1.0
+CUST_91,70,India,premium,17,101.83,credit card,pending,0.0,other,tablet,113.203.43.187,0,0.0,1.0
+CUST_236,21,USA,returning,28,122.82,PayPal,successful,0.0,other,mobile,33.90.232.203,0,0.0,2.0
+CUST_237,42,Canada,returning,24,985.81,credit card,successful,0.0,clothing,mobile,67.99.15.250,0,1.0,0.0
+CUST_135,64,India,returning,20,66.49,credit card,failed,,clothing,tablet,170.6.156.42,0,1.0,1.0
+CUST_238,24,USA,returning,47,831.18,debit card,successful,0.0,sports,desktop,12.39.116.110,0,1.0,0.0
+CUST_239,19,Germany,premium,43,792.95,debit card,failed,0.0,clothing,mobile,129.212.173.49,1,1.0,1.0
+CUST_204,69,USA,returning,37,206.26,PayPal,successful,0.0,clothing,tablet,9.203.98.121,0,0.0,0.0
+CUST_14,67,Other,premium,30,438.57,credit card,successful,1.0,home,desktop,173.102.85.100,0,0.0,3.0
+CUST_240,45,UK,returning,13,31.65,PayPal,successful,0.0,electronics,mobile,70.192.162.59,0,0.0,1.0
+CUST_61,26,Canada,new,32,99.5,PayPal,pending,1.0,other,desktop,147.62.235.228,0,0.0,5.0
+CUST_59,60,India,returning,46,869.22,debit card,successful,1.0,other,desktop,19.204.148.229,0,0.0,1.0
+CUST_75,22,USA,returning,23,562.0,bank transfer,successful,1.0,electronics,tablet,19.126.239.128,0,0.0,1.0
+CUST_221,54,UK,new,41,267.84,PayPal,successful,0.0,other,tablet,56.15.2.143,0,0.0,0.0
+CUST_241,61,Germany,new,4,893.11,PayPal,successful,0.0,electronics,tablet,205.9.193.70,0,0.0,2.0
+CUST_242,57,Germany,premium,6,145.66,bank transfer,successful,0.0,home,desktop,170.163.175.10,0,0.0,0.0
+CUST_243,49,Other,returning,18,666.36,PayPal,successful,0.0,home,desktop,210.218.30.243,0,1.0,0.0
+CUST_228,49,Other,new,20,607.37,credit card,failed,0.0,other,tablet,129.91.97.221,0,0.0,1.0
+CUST_123,46,UK,new,39,677.05,PayPal,successful,,home,tablet,75.109.14.192,1,0.0,3.0
+CUST_114,21,USA,new,1,301.44,bank transfer,successful,0.0,home,mobile,46.126.249.54,0,0.0,
+CUST_28,48,Germany,new,20,638.84,PayPal,successful,0.0,other,mobile,111.172.226.32,0,0.0,0.0
+CUST_244,23,Canada,returning,14,629.61,bank transfer,successful,0.0,sports,mobile,252.39.145.183,0,0.0,2.0
+CUST_137,58,Canada,new,46,53.06,bank transfer,successful,0.0,clothing,mobile,221.104.104.95,0,0.0,1.0
+CUST_245,67,India,,2,871.09,PayPal,successful,0.0,clothing,tablet,217.84.227.173,0,0.0,2.0
+CUST_143,32,USA,premium,34,581.28,credit card,successful,0.0,sports,desktop,66.142.185.9,0,0.0,2.0
+CUST_199,46,USA,premium,28,892.42,PayPal,successful,1.0,other,tablet,250.32.189.37,0,1.0,1.0
+CUST_246,66,UK,premium,11,240.61,debit card,successful,0.0,other,tablet,243.96.76.242,0,0.0,1.0
+CUST_238,24,USA,returning,47,289.87,credit card,successful,0.0,sports,desktop,165.158.66.210,0,0.0,0.0
+CUST_247,64,UK,new,22,166.16,debit card,failed,0.0,other,tablet,166.212.229.158,0,0.0,0.0
+CUST_248,70,UK,premium,26,299.18,credit card,successful,0.0,sports,mobile,167.161.50.94,0,0.0,0.0
+CUST_79,48,Other,new,19,282.15,credit card,successful,0.0,other,mobile,159.8.13.33,0,0.0,1.0
+CUST_182,46,Germany,returning,14,889.51,credit card,successful,1.0,electronics,mobile,126.197.78.153,0,0.0,5.0
+CUST_190,38,India,new,11,328.26,PayPal,successful,0.0,other,tablet,33.246.128.183,0,0.0,0.0
+CUST_102,25,Germany,new,30,224.15,bank transfer,successful,0.0,other,mobile,45.136.194.82,0,0.0,0.0
+CUST_6,62,USA,new,27,745.52,debit card,successful,,other,mobile,224.230.184.205,0,0.0,1.0
+CUST_184,65,Other,returning,50,364.21,bank transfer,successful,0.0,clothing,desktop,127.239.59.23,0,0.0,1.0
+CUST_249,46,Other,new,38,394.72,PayPal,successful,0.0,home,tablet,2.185.195.247,0,0.0,1.0
+CUST_193,37,USA,new,16,487.73,credit card,successful,0.0,electronics,mobile,157.224.240.181,0,0.0,0.0
+CUST_250,66,USA,returning,29,325.59,bank transfer,pending,1.0,other,mobile,201.239.35.54,0,0.0,5.0
+CUST_92,27,UK,new,25,203.48,PayPal,failed,1.0,home,mobile,1.52.161.136,0,0.0,1.0
+CUST_251,66,USA,new,31,454.05,credit card,failed,0.0,clothing,desktop,204.20.43.11,0,0.0,2.0
+CUST_222,39,Other,premium,5,598.44,debit card,successful,0.0,other,mobile,47.11.62.100,0,0.0,2.0
+CUST_90,34,India,new,35,736.2,PayPal,pending,0.0,electronics,tablet,232.208.15.133,0,1.0,2.0
+CUST_93,28,UK,new,28,287.96,bank transfer,successful,0.0,sports,desktop,155.93.243.199,0,0.0,1.0
+CUST_148,26,India,new,22,630.37,PayPal,successful,0.0,electronics,desktop,101.250.145.37,0,0.0,0.0
+CUST_112,54,Other,new,32,543.8,bank transfer,pending,,sports,desktop,21.84.123.198,0,0.0,2.0
+CUST_252,49,Other,returning,47,753.38,bank transfer,failed,1.0,home,desktop,72.99.112.180,0,0.0,3.0
+CUST_58,41,Germany,new,46,303.84,debit card,successful,0.0,clothing,mobile,216.189.150.2,0,0.0,1.0
+CUST_90,34,India,new,35,768.65,debit card,successful,0.0,sports,desktop,63.139.147.220,0,0.0,2.0
+CUST_107,52,USA,new,22,775.18,bank transfer,successful,0.0,sports,mobile,43.208.63.196,0,0.0,0.0
+CUST_189,64,Canada,premium,1,856.42,PayPal,successful,1.0,electronics,mobile,98.120.228.8,1,0.0,5.0
+CUST_84,33,Other,new,23,994.88,debit card,successful,0.0,other,desktop,255.212.48.88,0,0.0,0.0
+CUST_136,63,Other,new,18,735.72,bank transfer,successful,0.0,other,tablet,166.235.244.117,0,0.0,1.0
+CUST_235,47,USA,returning,8,310.09,credit card,successful,0.0,sports,desktop,56.220.123.159,0,0.0,0.0
+CUST_253,18,Canada,new,44,700.51,PayPal,failed,1.0,electronics,tablet,87.250.59.248,1,0.0,
+CUST_70,29,India,returning,7,280.97,bank transfer,successful,0.0,other,tablet,44.236.15.151,0,1.0,1.0
+CUST_254,51,Other,new,18,872.93,debit card,successful,0.0,clothing,mobile,197.57.254.63,0,0.0,2.0
+CUST_255,39,UK,premium,46,151.0,debit card,successful,1.0,clothing,desktop,250.27.158.170,0,0.0,3.0
+CUST_256,44,Other,new,28,188.76,debit card,successful,0.0,home,mobile,109.231.12.180,0,0.0,0.0
+CUST_243,49,Other,returning,18,499.44,credit card,successful,0.0,electronics,desktop,47.59.92.128,0,0.0,
+CUST_162,39,USA,returning,30,611.21,debit card,successful,0.0,other,mobile,202.182.64.94,0,0.0,2.0
+CUST_72,24,India,returning,35,502.53,bank transfer,successful,0.0,home,tablet,254.145.251.116,0,0.0,2.0
+CUST_88,43,Germany,returning,35,18.08,bank transfer,pending,0.0,home,mobile,115.197.44.86,0,1.0,2.0
+CUST_25,45,India,premium,9,182.19,bank transfer,successful,0.0,sports,tablet,241.215.251.240,0,1.0,1.0
+CUST_257,69,Germany,returning,34,671.13,PayPal,successful,0.0,home,desktop,111.170.236.76,0,,2.0
+CUST_258,21,India,new,19,178.75,debit card,successful,0.0,other,tablet,155.178.240.73,1,0.0,1.0
+CUST_11,18,UK,returning,40,258.64,debit card,successful,0.0,clothing,mobile,47.241.160.150,0,0.0,2.0
+CUST_259,60,Canada,returning,46,542.84,PayPal,successful,0.0,other,desktop,111.134.6.174,0,,1.0
+CUST_150,44,UK,new,16,557.67,PayPal,successful,0.0,home,mobile,103.201.231.27,0,0.0,0.0
+CUST_260,59,Germany,returning,25,859.77,credit card,successful,1.0,sports,tablet,17.226.28.247,0,0.0,2.0
+CUST_152,22,Germany,new,47,250.24,PayPal,failed,0.0,other,mobile,44.22.231.28,0,1.0,1.0
+CUST_86,19,India,premium,2,278.51,credit card,successful,0.0,sports,tablet,35.186.150.15,0,0.0,0.0
+CUST_23,61,Germany,,11,874.16,credit card,successful,0.0,sports,mobile,160.6.37.79,0,0.0,2.0
+CUST_51,49,UK,new,50,433.21,credit card,failed,1.0,other,desktop,81.194.225.217,0,0.0,4.0
+CUST_211,51,Canada,premium,36,309.57,bank transfer,successful,0.0,clothing,desktop,71.92.147.255,0,0.0,2.0
+CUST_234,30,UK,returning,46,984.84,bank transfer,pending,0.0,home,tablet,19.98.146.92,0,1.0,0.0
+CUST_261,56,Germany,new,38,528.37,bank transfer,successful,1.0,sports,desktop,65.16.136.5,0,1.0,2.0
+CUST_199,46,USA,premium,28,389.76,PayPal,pending,0.0,home,tablet,150.125.203.197,0,0.0,1.0
+CUST_23,61,Germany,new,11,11.44,PayPal,pending,0.0,home,desktop,94.11.167.172,0,0.0,0.0
+CUST_71,27,Canada,premium,43,425.3,PayPal,successful,0.0,sports,mobile,215.177.200.143,0,0.0,2.0
+CUST_262,22,Canada,new,35,67.42,credit card,successful,0.0,home,mobile,153.95.191.221,0,0.0,0.0
+CUST_263,68,India,new,47,856.84,bank transfer,failed,0.0,home,mobile,18.13.20.194,0,0.0,1.0
+CUST_247,64,UK,new,22,721.21,PayPal,pending,0.0,sports,desktop,203.113.186.202,0,0.0,2.0
+CUST_258,21,India,new,19,486.5,bank transfer,successful,1.0,electronics,mobile,24.2.62.218,0,0.0,5.0
+CUST_264,61,Germany,premium,35,907.15,bank transfer,successful,,home,mobile,157.1.74.39,0,0.0,2.0
+CUST_208,64,UK,returning,34,916.16,credit card,successful,0.0,clothing,desktop,118.160.147.83,0,0.0,0.0
+CUST_245,67,India,premium,2,898.83,PayPal,successful,1.0,sports,mobile,103.52.95.253,0,0.0,5.0
+CUST_265,34,India,new,49,522.01,PayPal,successful,0.0,home,tablet,193.44.176.46,0,0.0,0.0
+CUST_266,45,Canada,new,4,581.61,credit card,failed,0.0,clothing,mobile,244.84.16.215,0,0.0,2.0
+CUST_267,57,USA,new,41,317.63,bank transfer,successful,0.0,clothing,mobile,111.162.92.16,0,0.0,0.0
+CUST_129,20,USA,new,47,798.46,debit card,successful,0.0,other,mobile,74.103.122.92,0,0.0,2.0
+CUST_268,52,UK,returning,44,504.73,bank transfer,successful,0.0,electronics,desktop,175.79.221.183,1,0.0,1.0
+CUST_220,18,Canada,premium,25,839.95,credit card,failed,0.0,electronics,mobile,213.167.167.96,0,0.0,2.0
+CUST_167,44,Germany,returning,20,223.5,credit card,successful,1.0,clothing,desktop,172.156.124.42,0,0.0,3.0
+CUST_269,22,India,premium,11,974.01,bank transfer,successful,1.0,electronics,desktop,60.9.249.83,0,0.0,4.0
+CUST_221,54,UK,new,41,137.6,debit card,successful,0.0,other,mobile,52.40.110.164,0,0.0,2.0
+CUST_144,33,India,returning,12,101.89,credit card,failed,0.0,sports,desktop,232.217.79.90,0,0.0,1.0
+CUST_262,22,Canada,new,35,990.06,debit card,successful,0.0,clothing,desktop,237.40.179.231,0,0.0,2.0
+CUST_270,62,Canada,premium,24,443.44,debit card,successful,0.0,electronics,tablet,255.137.191.151,0,1.0,1.0
+CUST_236,21,USA,returning,28,977.34,bank transfer,successful,0.0,other,tablet,115.214.182.14,0,0.0,0.0
+CUST_46,35,Canada,premium,49,251.93,credit card,successful,1.0,home,desktop,187.198.61.114,0,0.0,1.0
+CUST_271,27,UK,premium,23,529.49,bank transfer,successful,1.0,home,tablet,56.239.67.252,0,0.0,2.0
+CUST_159,20,USA,returning,8,401.54,bank transfer,successful,0.0,electronics,mobile,187.250.110.221,0,0.0,2.0
+CUST_272,29,USA,new,23,388.56,debit card,pending,0.0,home,tablet,238.111.204.135,0,0.0,2.0
+CUST_141,33,Canada,premium,12,737.04,bank transfer,pending,1.0,clothing,mobile,149.236.186.77,0,0.0,5.0
+CUST_50,52,UK,premium,41,773.65,PayPal,successful,0.0,clothing,mobile,43.167.191.35,0,0.0,2.0
+CUST_273,46,India,returning,16,702.14,PayPal,successful,0.0,other,tablet,230.8.75.211,0,0.0,0.0
+CUST_107,52,USA,,22,897.16,PayPal,successful,0.0,electronics,tablet,242.30.152.144,0,0.0,0.0
+CUST_13,20,UK,returning,20,961.47,PayPal,pending,0.0,sports,mobile,227.205.245.164,0,0.0,2.0
+CUST_215,55,Germany,new,7,139.41,bank transfer,successful,0.0,other,desktop,136.65.125.105,0,0.0,0.0
+CUST_227,21,UK,returning,35,205.48,credit card,pending,0.0,clothing,desktop,18.20.55.103,0,0.0,1.0
+CUST_274,64,UK,new,7,393.75,credit card,successful,1.0,clothing,desktop,206.191.19.82,0,0.0,5.0
+CUST_108,27,India,premium,6,722.88,debit card,successful,0.0,clothing,tablet,136.86.139.34,0,0.0,0.0
+CUST_275,28,USA,new,27,689.39,PayPal,failed,0.0,other,desktop,196.177.48.112,0,0.0,1.0
+CUST_236,21,USA,returning,28,947.17,bank transfer,failed,0.0,other,mobile,163.19.6.114,0,0.0,
+CUST_179,62,India,premium,30,722.85,debit card,successful,0.0,home,desktop,19.4.253.210,0,0.0,1.0
+CUST_171,41,Germany,new,49,238.21,credit card,successful,0.0,clothing,mobile,213.108.224.31,0,0.0,0.0
+CUST_276,50,India,returning,31,214.69,bank transfer,successful,0.0,electronics,tablet,144.125.125.182,0,0.0,1.0
+CUST_244,23,Canada,returning,14,59.71,debit card,successful,0.0,other,mobile,104.93.161.144,0,0.0,0.0
+CUST_185,51,USA,new,21,790.55,PayPal,successful,1.0,electronics,mobile,109.13.188.194,0,1.0,2.0
+CUST_277,44,Canada,returning,43,199.11,credit card,failed,0.0,other,desktop,128.187.188.215,0,0.0,1.0
+CUST_215,55,Germany,new,7,398.89,debit card,successful,0.0,sports,desktop,175.3.178.61,0,0.0,2.0
+CUST_34,23,Other,new,49,664.65,debit card,failed,0.0,sports,desktop,183.124.165.40,0,0.0,0.0
+CUST_17,37,USA,premium,47,897.34,credit card,successful,1.0,other,desktop,40.192.18.220,0,1.0,3.0
+CUST_1,39,USA,new,15,441.05,debit card,successful,1.0,other,mobile,230.68.96.246,0,0.0,1.0
+CUST_244,23,Canada,returning,14,720.88,bank transfer,successful,0.0,other,tablet,99.26.136.152,0,0.0,0.0
+CUST_109,28,Other,returning,26,325.3,debit card,failed,0.0,other,tablet,91.32.111.35,0,0.0,1.0
+CUST_75,22,USA,returning,23,704.82,bank transfer,successful,0.0,home,mobile,219.178.146.18,0,0.0,1.0
+CUST_103,56,Germany,returning,23,621.14,bank transfer,successful,0.0,home,desktop,181.91.207.76,1,0.0,0.0
+CUST_108,27,India,premium,6,518.4,bank transfer,successful,0.0,other,tablet,111.166.161.145,0,0.0,0.0
+CUST_278,19,USA,returning,36,986.99,PayPal,successful,1.0,electronics,desktop,80.136.104.39,0,0.0,1.0
+CUST_50,52,UK,premium,41,885.7,credit card,successful,0.0,electronics,mobile,200.81.18.76,0,0.0,0.0
+CUST_150,44,UK,new,16,618.63,credit card,successful,0.0,home,tablet,90.2.51.240,0,0.0,1.0
+CUST_279,44,Germany,new,44,363.22,bank transfer,successful,1.0,sports,tablet,47.3.230.98,0,0.0,5.0
+CUST_159,20,USA,returning,8,648.23,bank transfer,successful,0.0,clothing,mobile,187.91.99.166,0,0.0,0.0
+CUST_216,34,Germany,premium,4,10.75,bank transfer,successful,0.0,other,tablet,240.225.161.225,0,0.0,0.0
+CUST_36,47,USA,premium,22,459.33,PayPal,successful,0.0,sports,desktop,71.49.135.42,0,0.0,0.0
+CUST_114,21,USA,new,1,320.88,debit card,successful,0.0,clothing,mobile,71.138.179.118,0,0.0,1.0
+CUST_84,33,Other,new,23,275.0,bank transfer,successful,0.0,electronics,tablet,253.56.138.162,0,0.0,1.0
+CUST_280,59,India,premium,32,899.09,debit card,pending,0.0,sports,desktop,249.53.4.80,0,0.0,0.0
+CUST_44,35,UK,,33,611.45,debit card,successful,0.0,clothing,mobile,116.121.32.11,1,0.0,0.0
+CUST_281,20,India,returning,43,522.88,credit card,successful,0.0,home,mobile,83.102.62.100,0,0.0,2.0
+CUST_13,20,UK,returning,20,658.8,bank transfer,successful,,sports,mobile,174.221.80.139,0,0.0,1.0
+CUST_280,59,India,premium,32,739.08,credit card,successful,0.0,clothing,mobile,147.104.18.84,0,0.0,
+CUST_12,62,UK,new,50,438.91,PayPal,successful,0.0,home,desktop,101.71.38.127,0,1.0,0.0
+CUST_270,62,Canada,premium,24,905.03,credit card,successful,1.0,clothing,mobile,224.190.210.102,0,0.0,3.0
+CUST_25,45,India,premium,9,777.15,PayPal,successful,0.0,electronics,tablet,83.249.135.24,0,0.0,0.0
+CUST_282,34,Canada,new,31,932.66,credit card,successful,0.0,other,desktop,93.81.200.19,1,1.0,2.0
+CUST_279,44,Germany,new,44,706.54,bank transfer,successful,0.0,home,mobile,84.196.169.248,0,,0.0
+CUST_283,40,Canada,new,6,876.79,bank transfer,successful,0.0,sports,mobile,72.224.221.103,0,0.0,
+CUST_284,18,UK,returning,44,477.56,PayPal,successful,1.0,sports,desktop,95.25.132.198,0,0.0,
+CUST_25,45,India,premium,9,79.24,PayPal,successful,,home,desktop,159.144.244.159,0,0.0,0.0
+CUST_242,57,Germany,premium,6,232.84,bank transfer,successful,0.0,electronics,tablet,252.141.12.46,0,0.0,2.0
+CUST_285,37,UK,new,5,812.46,credit card,failed,0.0,electronics,desktop,202.18.95.105,0,0.0,0.0
+CUST_282,34,Canada,new,31,504.59,credit card,successful,1.0,sports,desktop,58.238.23.151,0,0.0,2.0
+CUST_248,70,UK,premium,26,752.82,PayPal,failed,0.0,home,desktop,108.164.54.112,0,0.0,0.0
+CUST_74,29,Canada,premium,37,293.7,credit card,pending,0.0,home,tablet,233.20.12.44,0,0.0,0.0
+CUST_98,62,UK,new,11,258.25,credit card,successful,0.0,home,tablet,109.233.236.53,0,1.0,1.0
+CUST_211,51,Canada,,36,95.46,credit card,failed,0.0,other,mobile,138.85.11.51,0,1.0,0.0
+CUST_286,34,USA,new,32,715.74,bank transfer,successful,0.0,home,mobile,159.170.164.114,0,0.0,0.0
+CUST_287,47,USA,premium,4,201.96,bank transfer,successful,1.0,clothing,tablet,128.158.119.22,0,0.0,
+CUST_288,57,India,returning,48,985.91,bank transfer,successful,0.0,electronics,tablet,152.107.204.70,0,0.0,2.0
+CUST_269,22,India,premium,11,209.73,debit card,successful,0.0,clothing,desktop,202.38.202.124,0,0.0,2.0
+CUST_6,62,USA,new,27,133.68,debit card,successful,0.0,sports,desktop,40.182.227.176,0,0.0,0.0
+CUST_158,37,Canada,new,9,828.81,debit card,failed,0.0,clothing,mobile,150.220.170.161,0,0.0,2.0
+CUST_289,55,UK,new,30,598.61,bank transfer,successful,0.0,other,desktop,38.181.59.108,0,1.0,1.0
+CUST_284,18,UK,returning,44,24.78,PayPal,successful,0.0,home,mobile,36.163.17.124,0,0.0,1.0
+CUST_25,45,India,premium,9,761.17,PayPal,successful,0.0,clothing,tablet,161.170.55.135,0,0.0,2.0
+CUST_21,26,Canada,new,32,477.75,bank transfer,pending,0.0,home,tablet,56.213.233.142,0,0.0,1.0
+CUST_290,69,India,returning,26,118.83,bank transfer,successful,1.0,sports,tablet,105.127.200.226,0,0.0,5.0
+CUST_268,52,UK,returning,44,841.41,PayPal,successful,0.0,home,desktop,250.209.14.142,0,1.0,2.0
+CUST_163,69,Other,returning,17,301.57,bank transfer,successful,0.0,clothing,mobile,243.60.116.72,0,0.0,
+CUST_291,58,India,new,38,999.86,bank transfer,successful,0.0,home,desktop,26.152.8.27,0,,2.0
+CUST_36,47,USA,premium,22,801.82,credit card,successful,,sports,desktop,197.161.209.78,0,0.0,1.0
+CUST_172,48,UK,new,49,574.73,credit card,failed,0.0,clothing,mobile,211.159.255.253,0,0.0,1.0
+CUST_71,27,Canada,premium,43,179.59,debit card,successful,1.0,other,mobile,48.18.170.100,0,0.0,4.0
+CUST_129,20,USA,new,47,753.34,bank transfer,successful,0.0,clothing,tablet,134.166.23.64,1,0.0,2.0
+CUST_292,18,Canada,premium,23,543.1,debit card,successful,,sports,desktop,219.99.166.5,0,0.0,2.0
+CUST_293,50,Other,,33,406.68,bank transfer,successful,0.0,home,desktop,98.53.28.145,0,0.0,0.0
+CUST_234,30,UK,,46,222.47,bank transfer,successful,0.0,home,desktop,36.234.54.126,0,0.0,0.0
+CUST_294,20,India,premium,20,848.55,PayPal,successful,0.0,sports,mobile,96.252.194.30,0,0.0,1.0
+CUST_295,70,UK,returning,23,720.67,debit card,successful,0.0,other,desktop,250.157.23.50,0,0.0,1.0
+CUST_126,55,Germany,returning,19,698.66,PayPal,successful,1.0,home,mobile,147.136.153.206,0,0.0,3.0
+CUST_296,29,India,new,8,981.67,bank transfer,successful,0.0,electronics,mobile,122.66.30.2,0,0.0,0.0
+CUST_214,39,USA,returning,40,780.63,bank transfer,failed,0.0,electronics,tablet,198.142.147.97,0,0.0,2.0
+CUST_209,65,UK,premium,20,868.42,PayPal,failed,0.0,home,tablet,109.1.218.229,0,0.0,2.0
+CUST_58,41,Germany,new,46,667.03,credit card,successful,1.0,clothing,mobile,32.160.218.228,0,0.0,5.0
+CUST_244,23,Canada,returning,14,522.3,PayPal,successful,0.0,clothing,tablet,109.168.213.72,0,0.0,0.0
+CUST_150,44,UK,new,16,58.15,PayPal,successful,0.0,electronics,mobile,247.76.197.12,1,0.0,2.0
+CUST_193,37,USA,new,16,537.09,bank transfer,successful,0.0,electronics,desktop,182.172.239.22,0,0.0,2.0
+CUST_164,65,India,new,10,729.01,PayPal,successful,0.0,sports,mobile,19.11.191.69,0,0.0,0.0
+CUST_68,26,Other,new,41,110.38,bank transfer,successful,1.0,other,tablet,247.59.34.252,0,0.0,4.0
+CUST_292,18,Canada,premium,23,935.32,debit card,successful,1.0,sports,tablet,173.54.227.185,0,0.0,2.0
+CUST_297,42,Other,new,28,80.42,PayPal,successful,0.0,electronics,mobile,208.225.251.83,0,0.0,0.0
+CUST_298,48,UK,new,18,193.46,credit card,successful,0.0,other,desktop,104.174.188.117,0,0.0,0.0
+CUST_45,29,India,returning,6,258.36,credit card,successful,0.0,electronics,mobile,249.235.107.24,0,1.0,2.0
+CUST_299,20,Germany,premium,37,273.71,bank transfer,successful,1.0,sports,tablet,137.241.84.250,0,0.0,4.0
+CUST_297,42,Other,new,28,754.19,debit card,successful,0.0,sports,tablet,217.226.27.168,0,0.0,2.0
+CUST_184,65,Other,returning,50,796.12,bank transfer,successful,0.0,electronics,desktop,9.201.237.61,0,0.0,
+CUST_14,67,Other,premium,30,646.82,bank transfer,successful,1.0,sports,mobile,65.2.75.127,1,0.0,2.0
+CUST_262,22,Canada,new,35,750.65,PayPal,successful,0.0,electronics,mobile,25.46.30.3,1,0.0,1.0
+CUST_300,19,Germany,premium,31,125.87,debit card,successful,0.0,sports,mobile,38.112.149.176,0,0.0,2.0
+CUST_198,38,India,new,23,81.9,credit card,pending,0.0,sports,tablet,128.131.246.165,0,0.0,0.0
+CUST_301,24,India,new,33,574.81,debit card,successful,0.0,clothing,mobile,12.58.7.94,0,0.0,2.0
+CUST_302,18,Canada,returning,39,925.52,PayPal,successful,1.0,home,desktop,245.202.173.226,0,0.0,4.0
+CUST_34,23,Other,new,49,873.32,credit card,successful,0.0,other,tablet,254.235.58.2,0,1.0,2.0
+CUST_181,39,USA,returning,30,999.9,debit card,successful,0.0,sports,mobile,49.178.101.17,0,0.0,2.0
+CUST_32,46,India,premium,47,925.08,debit card,successful,0.0,other,tablet,49.207.36.138,0,1.0,2.0
+CUST_151,23,Germany,returning,30,21.29,credit card,successful,0.0,other,mobile,187.64.207.207,0,0.0,1.0
+CUST_192,41,Germany,returning,35,337.69,debit card,successful,0.0,home,tablet,132.134.109.37,0,0.0,0.0
+CUST_303,41,India,new,47,232.33,debit card,successful,0.0,clothing,desktop,51.229.214.131,0,1.0,0.0
+CUST_54,41,Other,new,15,347.73,credit card,successful,0.0,clothing,desktop,236.29.222.181,0,0.0,1.0
+CUST_304,44,Germany,returning,12,104.32,bank transfer,successful,0.0,other,desktop,214.64.58.119,0,0.0,1.0
+CUST_292,18,Canada,premium,23,842.48,credit card,failed,1.0,home,mobile,71.30.239.176,0,0.0,3.0
+CUST_28,48,Germany,new,20,473.58,credit card,successful,0.0,home,tablet,79.79.63.152,1,0.0,1.0
+CUST_216,34,Germany,premium,4,643.91,credit card,failed,0.0,home,tablet,219.205.138.127,0,0.0,0.0
+CUST_182,46,Germany,returning,14,425.82,bank transfer,successful,0.0,electronics,tablet,129.52.113.197,0,0.0,0.0
+CUST_305,45,Canada,premium,4,684.85,credit card,successful,0.0,clothing,mobile,25.131.130.76,0,0.0,0.0
+CUST_306,51,UK,returning,40,262.73,credit card,successful,0.0,clothing,desktop,148.225.134.37,0,0.0,1.0
+CUST_264,61,Germany,premium,35,256.26,bank transfer,successful,0.0,electronics,mobile,193.137.36.202,0,0.0,0.0
+CUST_307,66,Canada,new,27,988.1,bank transfer,successful,0.0,other,desktop,58.209.87.7,0,0.0,0.0
+CUST_3,47,Other,new,34,909.19,bank transfer,successful,0.0,other,mobile,14.45.76.59,0,0.0,2.0
+CUST_308,69,USA,new,2,50.37,PayPal,pending,0.0,sports,mobile,87.141.89.199,0,0.0,1.0
+CUST_173,68,UK,returning,17,928.55,debit card,successful,1.0,electronics,mobile,119.188.153.49,0,0.0,4.0
+CUST_245,67,India,premium,2,961.51,credit card,pending,0.0,other,tablet,177.185.56.124,0,1.0,2.0
+CUST_83,51,UK,new,15,81.95,bank transfer,successful,1.0,electronics,mobile,122.205.38.141,0,0.0,5.0
+CUST_26,25,India,,31,603.44,debit card,successful,0.0,other,tablet,252.243.119.93,0,0.0,2.0
+CUST_309,37,Germany,premium,7,806.54,bank transfer,successful,0.0,home,mobile,118.134.15.122,0,1.0,0.0
+CUST_217,23,Other,returning,38,943.89,credit card,successful,0.0,electronics,mobile,72.220.158.227,1,1.0,0.0
+CUST_215,55,Germany,new,7,854.68,bank transfer,pending,0.0,home,mobile,191.2.121.141,0,1.0,2.0
+CUST_223,30,USA,new,2,631.08,credit card,pending,0.0,electronics,tablet,195.76.93.46,0,0.0,0.0
+CUST_82,62,USA,returning,19,412.42,bank transfer,failed,0.0,other,desktop,176.19.105.36,0,0.0,1.0
+CUST_310,21,Canada,new,1,722.01,PayPal,successful,0.0,other,tablet,14.51.131.218,0,0.0,2.0
+CUST_311,63,USA,returning,3,920.96,credit card,successful,0.0,electronics,tablet,226.173.239.166,0,1.0,0.0
+CUST_312,44,UK,premium,47,784.93,bank transfer,pending,0.0,sports,tablet,122.239.118.135,0,0.0,1.0
+CUST_300,19,Germany,premium,31,859.6,PayPal,successful,0.0,electronics,desktop,233.179.84.223,0,1.0,0.0
+CUST_313,40,USA,new,3,483.13,credit card,successful,0.0,electronics,mobile,243.68.7.57,0,0.0,2.0
+CUST_237,42,Canada,returning,24,837.03,credit card,successful,0.0,clothing,tablet,4.185.24.35,0,0.0,1.0
+CUST_314,21,UK,premium,28,188.53,debit card,successful,0.0,sports,tablet,177.187.82.78,1,0.0,2.0
+CUST_147,62,India,new,39,257.07,debit card,successful,0.0,electronics,tablet,34.213.9.161,0,0.0,1.0
+CUST_259,60,Canada,returning,46,722.84,credit card,successful,0.0,other,desktop,15.90.69.14,0,0.0,0.0
+CUST_294,20,India,premium,20,227.94,credit card,successful,0.0,other,mobile,79.3.49.155,0,0.0,2.0
+CUST_315,67,Other,premium,19,453.51,bank transfer,successful,0.0,sports,tablet,194.21.189.29,0,0.0,1.0
+CUST_316,66,Other,premium,23,591.61,debit card,successful,1.0,home,tablet,85.0.9.143,0,0.0,5.0
+CUST_127,49,India,returning,32,503.93,bank transfer,successful,0.0,sports,desktop,245.40.41.85,0,0.0,1.0
+CUST_317,68,Canada,premium,23,959.69,credit card,pending,0.0,other,desktop,95.77.249.74,0,0.0,0.0
+CUST_109,28,Other,returning,26,996.89,debit card,successful,0.0,clothing,mobile,181.178.228.41,0,0.0,1.0
+CUST_318,44,Other,returning,9,233.73,debit card,failed,0.0,clothing,mobile,166.160.142.218,0,0.0,2.0
+CUST_198,38,India,new,23,622.39,credit card,successful,1.0,other,desktop,77.248.231.15,0,0.0,1.0
+CUST_293,50,Other,premium,33,600.52,bank transfer,successful,1.0,other,tablet,16.44.195.72,0,0.0,5.0
+CUST_319,54,UK,returning,2,983.41,bank transfer,pending,0.0,sports,mobile,106.239.157.103,0,0.0,
+CUST_312,44,UK,premium,47,912.91,credit card,successful,1.0,electronics,desktop,196.217.167.243,0,0.0,4.0
+CUST_320,53,Other,returning,24,944.4,debit card,pending,0.0,sports,mobile,76.211.132.182,0,0.0,2.0
+CUST_321,20,USA,returning,47,750.68,bank transfer,successful,0.0,electronics,desktop,168.218.193.23,0,,2.0
+CUST_10,26,Canada,new,10,633.24,bank transfer,successful,0.0,home,mobile,88.2.143.91,0,0.0,1.0
+CUST_261,56,Germany,new,38,618.09,bank transfer,successful,0.0,electronics,desktop,25.8.35.27,0,0.0,2.0
+CUST_6,62,USA,new,27,186.91,bank transfer,successful,0.0,other,mobile,151.25.98.67,0,1.0,0.0
+CUST_322,63,UK,new,27,54.25,credit card,successful,0.0,electronics,tablet,90.167.35.248,0,0.0,1.0
+CUST_257,69,Germany,returning,34,278.4,bank transfer,successful,0.0,other,mobile,32.249.193.86,0,0.0,2.0
+CUST_162,39,USA,returning,30,897.82,bank transfer,successful,0.0,clothing,desktop,172.118.171.114,0,0.0,1.0
+CUST_323,51,Canada,returning,18,430.74,debit card,successful,0.0,other,desktop,56.142.98.90,0,0.0,0.0
+CUST_199,46,USA,premium,28,174.62,bank transfer,successful,0.0,home,tablet,121.175.78.233,1,0.0,2.0
+CUST_207,55,Germany,new,40,310.39,credit card,successful,0.0,other,desktop,104.149.106.190,0,,1.0
+CUST_324,59,India,returning,46,232.75,debit card,failed,0.0,clothing,tablet,88.10.147.66,0,0.0,0.0
+CUST_36,47,USA,premium,22,607.01,debit card,successful,0.0,other,tablet,107.207.48.177,0,0.0,2.0
+CUST_128,35,UK,returning,9,419.17,bank transfer,successful,0.0,clothing,desktop,162.18.242.50,0,0.0,0.0
+CUST_293,50,Other,premium,33,891.36,bank transfer,pending,0.0,electronics,tablet,5.86.169.111,0,0.0,2.0
+CUST_325,37,USA,premium,9,511.45,PayPal,successful,0.0,home,mobile,105.26.125.184,0,0.0,1.0
+CUST_326,63,USA,premium,11,414.09,credit card,pending,0.0,sports,mobile,30.159.229.246,0,0.0,1.0
+CUST_327,44,UK,new,49,245.28,bank transfer,successful,0.0,home,tablet,187.170.177.216,1,0.0,0.0
+CUST_328,61,UK,returning,17,91.65,credit card,successful,1.0,sports,mobile,61.90.107.148,0,0.0,1.0
+CUST_329,53,Germany,new,6,523.61,credit card,successful,0.0,sports,mobile,212.117.17.174,0,0.0,0.0
+CUST_330,54,USA,new,29,965.86,PayPal,successful,0.0,clothing,mobile,115.115.242.177,0,0.0,2.0
+CUST_331,51,India,returning,43,760.69,bank transfer,pending,0.0,home,mobile,96.95.158.85,0,0.0,2.0
+CUST_122,51,Germany,new,20,795.77,PayPal,successful,0.0,clothing,desktop,82.4.96.204,0,0.0,2.0
+CUST_138,44,UK,new,23,595.26,bank transfer,successful,0.0,electronics,desktop,70.0.89.209,0,0.0,0.0
+CUST_332,70,India,new,15,341.86,PayPal,successful,0.0,clothing,desktop,30.171.200.179,0,0.0,0.0
+CUST_333,32,Germany,premium,23,818.63,PayPal,successful,0.0,electronics,tablet,225.177.238.178,0,0.0,1.0
+CUST_258,21,India,new,19,320.36,bank transfer,successful,0.0,electronics,desktop,130.236.235.27,0,1.0,0.0
+CUST_92,27,UK,new,25,538.62,debit card,failed,1.0,clothing,tablet,113.81.213.112,0,0.0,
+CUST_164,65,India,new,10,909.71,credit card,successful,0.0,electronics,desktop,66.105.249.51,0,1.0,2.0
+CUST_334,54,UK,new,30,600.82,debit card,successful,0.0,other,mobile,234.90.161.123,0,1.0,2.0
+CUST_268,52,UK,returning,44,686.82,bank transfer,successful,0.0,home,desktop,110.184.133.98,0,0.0,0.0
+CUST_255,39,UK,premium,46,558.85,credit card,failed,1.0,clothing,tablet,119.118.154.246,0,0.0,5.0
+CUST_9,64,Canada,returning,41,295.92,PayPal,successful,0.0,sports,mobile,199.254.101.79,0,0.0,0.0
+CUST_213,60,USA,,5,223.79,debit card,successful,0.0,electronics,mobile,0.71.21.73,0,0.0,2.0
+CUST_335,69,UK,premium,43,123.93,PayPal,successful,1.0,electronics,tablet,190.94.126.4,0,0.0,4.0
+CUST_100,54,UK,new,21,602.93,debit card,failed,0.0,home,mobile,45.151.91.117,0,0.0,0.0
+CUST_335,69,UK,premium,43,636.49,debit card,successful,0.0,sports,mobile,186.242.47.214,0,0.0,2.0
+CUST_336,40,Canada,new,36,148.55,debit card,successful,0.0,home,tablet,147.137.20.121,0,0.0,1.0
+CUST_96,28,India,new,45,322.98,credit card,successful,0.0,home,desktop,112.254.98.43,0,1.0,1.0
+CUST_94,46,India,new,10,245.05,bank transfer,successful,0.0,home,mobile,154.45.124.236,1,1.0,1.0
+CUST_40,59,UK,new,19,477.63,debit card,successful,0.0,sports,tablet,112.175.172.38,0,0.0,0.0
+CUST_225,51,USA,returning,24,158.48,PayPal,successful,1.0,other,desktop,58.139.107.225,0,,5.0
+CUST_270,62,Canada,premium,24,573.63,bank transfer,successful,0.0,other,tablet,201.226.131.134,0,0.0,2.0
+CUST_337,47,Canada,premium,39,775.12,debit card,failed,0.0,clothing,mobile,155.250.113.251,0,0.0,0.0
+CUST_192,41,Germany,returning,35,740.34,bank transfer,successful,0.0,clothing,mobile,198.74.213.60,0,0.0,
+CUST_208,64,UK,returning,34,900.54,bank transfer,failed,1.0,other,desktop,105.60.98.9,0,0.0,4.0
+CUST_338,43,Germany,returning,46,688.08,PayPal,successful,0.0,sports,tablet,217.59.106.169,0,0.0,2.0
+CUST_192,41,Germany,returning,35,371.6,PayPal,successful,0.0,clothing,desktop,192.16.95.240,0,0.0,0.0
+CUST_339,65,India,premium,21,268.43,bank transfer,successful,0.0,home,mobile,40.62.14.52,0,0.0,0.0
+CUST_105,23,Germany,premium,1,204.39,debit card,successful,0.0,home,tablet,101.205.105.193,0,0.0,1.0
+CUST_295,70,UK,returning,23,410.57,PayPal,successful,1.0,electronics,desktop,87.107.161.47,0,0.0,
+CUST_123,46,UK,new,39,712.56,debit card,successful,0.0,sports,desktop,105.102.198.253,0,1.0,0.0
+CUST_309,37,Germany,premium,7,587.67,credit card,successful,0.0,sports,tablet,30.161.127.93,0,0.0,2.0
+CUST_121,56,Other,new,42,286.08,PayPal,successful,0.0,home,mobile,218.45.82.57,0,0.0,2.0
+CUST_284,18,UK,returning,44,944.54,debit card,successful,1.0,other,tablet,229.214.250.115,1,0.0,1.0
+CUST_62,35,India,premium,17,853.79,debit card,successful,1.0,electronics,tablet,165.116.162.82,0,1.0,5.0
+CUST_289,55,UK,new,30,260.88,debit card,successful,0.0,electronics,mobile,124.193.73.58,0,0.0,
+CUST_30,20,Canada,new,50,955.06,bank transfer,successful,0.0,other,tablet,39.99.187.161,0,1.0,1.0
+CUST_83,51,UK,new,15,224.73,debit card,successful,1.0,clothing,desktop,142.27.255.254,0,0.0,1.0
+CUST_340,46,India,returning,43,265.07,bank transfer,successful,0.0,home,tablet,44.171.86.254,0,1.0,2.0
+CUST_236,21,USA,returning,28,729.81,bank transfer,successful,1.0,home,mobile,85.212.73.124,0,0.0,2.0
+CUST_211,51,Canada,premium,36,863.78,PayPal,pending,0.0,clothing,mobile,114.232.242.145,0,0.0,2.0
+CUST_339,65,India,premium,21,620.85,bank transfer,successful,0.0,other,desktop,42.124.6.41,0,0.0,2.0
+CUST_341,24,Germany,new,12,485.89,bank transfer,successful,0.0,sports,tablet,75.44.226.151,0,0.0,0.0
+CUST_322,63,UK,new,27,351.79,PayPal,successful,,clothing,tablet,152.225.8.70,1,1.0,3.0
+CUST_317,68,Canada,premium,23,247.13,PayPal,successful,0.0,sports,mobile,0.19.5.186,0,1.0,1.0
+CUST_309,37,Germany,premium,7,419.12,bank transfer,pending,0.0,clothing,tablet,155.75.33.173,1,0.0,1.0
+CUST_169,46,India,new,5,439.88,credit card,successful,0.0,clothing,tablet,227.148.204.143,1,0.0,0.0
+CUST_342,63,India,returning,33,830.79,debit card,successful,0.0,home,desktop,58.232.240.50,0,0.0,0.0
+CUST_343,40,UK,new,3,346.68,debit card,successful,0.0,home,desktop,218.73.8.126,0,0.0,1.0
+CUST_344,59,UK,new,18,458.94,credit card,successful,0.0,clothing,mobile,39.135.155.149,0,0.0,1.0
+CUST_185,51,USA,new,21,193.82,PayPal,successful,0.0,clothing,tablet,161.27.130.128,0,0.0,2.0
+CUST_292,18,Canada,premium,23,799.39,bank transfer,successful,0.0,electronics,desktop,154.43.181.192,0,0.0,0.0
+CUST_345,39,Germany,premium,4,108.97,bank transfer,successful,0.0,other,desktop,233.68.183.213,0,0.0,2.0
+CUST_157,30,Other,new,7,776.04,debit card,successful,0.0,clothing,desktop,33.63.136.25,0,0.0,1.0
+CUST_346,42,USA,returning,14,679.78,bank transfer,successful,0.0,home,mobile,172.118.45.1,0,0.0,1.0
+CUST_347,48,Canada,premium,19,191.38,debit card,successful,0.0,electronics,mobile,23.118.242.135,0,1.0,1.0
+CUST_144,33,India,returning,12,625.39,bank transfer,failed,0.0,electronics,mobile,127.121.49.126,0,0.0,0.0
+CUST_348,29,Other,new,47,427.9,bank transfer,successful,0.0,electronics,mobile,149.167.137.83,0,0.0,0.0
+CUST_275,28,USA,,27,558.37,bank transfer,successful,1.0,sports,mobile,194.40.194.234,1,0.0,4.0
+CUST_199,46,USA,premium,28,446.01,credit card,successful,0.0,clothing,tablet,168.118.109.38,0,0.0,1.0
+CUST_111,55,Other,returning,50,233.24,bank transfer,pending,0.0,electronics,desktop,217.30.232.164,0,0.0,1.0
+CUST_159,20,USA,returning,8,173.07,credit card,successful,0.0,home,mobile,117.31.144.47,0,0.0,0.0
+CUST_297,42,Other,new,28,922.38,debit card,successful,1.0,clothing,tablet,204.151.231.207,0,0.0,3.0
+CUST_349,62,UK,new,30,567.83,PayPal,successful,0.0,sports,tablet,250.36.33.22,0,0.0,1.0
+CUST_47,61,Canada,premium,36,481.93,debit card,successful,0.0,electronics,desktop,189.55.253.62,0,0.0,0.0
+CUST_172,48,UK,new,49,235.06,PayPal,successful,0.0,clothing,mobile,117.154.121.237,0,1.0,0.0
+CUST_134,24,Germany,new,15,705.18,credit card,successful,0.0,home,desktop,78.106.247.24,0,0.0,2.0
+CUST_350,45,India,returning,7,875.75,debit card,failed,0.0,electronics,mobile,85.221.195.19,0,,0.0
+CUST_351,28,Other,new,37,975.53,PayPal,successful,1.0,electronics,desktop,219.87.84.226,0,0.0,3.0
+CUST_352,47,India,premium,21,760.03,bank transfer,pending,1.0,sports,mobile,235.234.3.168,0,0.0,5.0
+CUST_318,44,Other,returning,9,906.12,debit card,successful,0.0,sports,tablet,84.204.77.215,0,0.0,0.0
+CUST_238,24,USA,returning,47,833.24,PayPal,failed,0.0,clothing,mobile,58.78.67.182,0,0.0,1.0
+CUST_343,40,UK,new,3,595.79,debit card,successful,1.0,other,tablet,121.121.164.27,1,0.0,4.0
+CUST_256,44,Other,new,28,907.52,bank transfer,successful,0.0,other,desktop,188.20.220.93,0,0.0,0.0
+CUST_353,56,Other,new,13,977.21,debit card,successful,0.0,home,mobile,64.100.22.64,0,0.0,1.0
+CUST_230,67,UK,new,4,159.25,bank transfer,pending,1.0,sports,tablet,120.87.134.13,0,1.0,1.0
+CUST_181,39,USA,returning,30,278.56,credit card,successful,0.0,other,mobile,188.52.77.177,1,0.0,0.0
+CUST_221,54,UK,new,41,917.78,PayPal,successful,0.0,other,mobile,49.70.215.112,0,0.0,2.0
+CUST_354,21,USA,premium,45,126.41,bank transfer,pending,0.0,sports,tablet,67.134.104.127,0,0.0,2.0
+CUST_137,58,Canada,new,46,365.34,debit card,successful,1.0,electronics,desktop,132.116.220.108,0,0.0,4.0
+CUST_111,55,Other,returning,50,994.7,PayPal,successful,1.0,clothing,mobile,17.149.162.91,0,0.0,5.0
+CUST_230,67,UK,new,4,881.35,debit card,successful,0.0,sports,mobile,129.87.171.90,0,0.0,
+CUST_355,42,India,returning,4,359.13,debit card,successful,0.0,home,tablet,67.202.123.17,0,0.0,1.0
+CUST_320,53,Other,returning,24,368.6,bank transfer,successful,0.0,sports,mobile,231.191.37.255,0,0.0,1.0
+CUST_333,32,Germany,premium,23,293.22,bank transfer,successful,0.0,other,mobile,222.76.74.113,0,0.0,2.0
+CUST_194,49,Canada,new,21,593.46,debit card,successful,0.0,home,desktop,112.237.71.153,0,1.0,1.0
+CUST_356,68,USA,returning,6,735.73,credit card,successful,0.0,clothing,tablet,210.42.65.168,0,0.0,1.0
+CUST_31,30,India,new,14,250.8,PayPal,failed,0.0,sports,tablet,10.31.62.133,0,0.0,1.0
+CUST_175,57,Germany,,4,989.61,debit card,successful,0.0,clothing,mobile,167.125.119.154,0,0.0,0.0
+CUST_308,69,USA,new,2,68.57,debit card,successful,0.0,home,mobile,84.42.198.235,0,0.0,0.0
+CUST_271,27,UK,premium,23,321.74,credit card,successful,0.0,clothing,desktop,31.138.145.170,0,0.0,0.0
+CUST_333,32,Germany,premium,23,430.7,bank transfer,successful,0.0,electronics,desktop,202.151.73.48,0,0.0,2.0
+CUST_206,69,Other,premium,39,499.79,bank transfer,successful,0.0,clothing,tablet,33.147.19.132,0,0.0,0.0
+CUST_357,61,Canada,premium,9,346.72,bank transfer,successful,0.0,home,desktop,115.53.44.20,0,1.0,2.0
+CUST_358,27,UK,new,24,810.84,bank transfer,successful,0.0,other,mobile,69.118.23.235,1,0.0,1.0
+CUST_123,46,UK,new,39,159.58,credit card,successful,0.0,other,desktop,26.163.162.152,0,0.0,2.0
+CUST_359,46,USA,returning,46,834.53,debit card,failed,0.0,clothing,mobile,27.7.243.30,0,0.0,1.0
+CUST_360,20,USA,premium,29,456.22,PayPal,failed,0.0,other,desktop,206.228.222.78,0,0.0,1.0
+CUST_7,55,Canada,,4,757.15,bank transfer,pending,0.0,electronics,tablet,232.180.87.39,0,0.0,1.0
+CUST_361,34,India,premium,24,571.17,debit card,successful,1.0,home,desktop,99.210.140.214,0,0.0,2.0
+CUST_346,42,USA,returning,14,527.25,debit card,pending,0.0,electronics,desktop,165.29.200.48,0,0.0,0.0
+CUST_93,28,UK,new,28,737.42,bank transfer,successful,1.0,electronics,tablet,223.115.146.80,0,0.0,1.0
+CUST_105,23,Germany,premium,1,403.36,debit card,successful,0.0,other,desktop,11.17.159.106,0,1.0,0.0
+CUST_97,70,India,new,13,554.5,debit card,successful,0.0,clothing,desktop,218.66.39.189,0,0.0,1.0
+CUST_113,47,Germany,new,40,176.29,PayPal,successful,1.0,sports,tablet,185.224.8.56,0,0.0,4.0
+CUST_195,51,Other,returning,13,187.64,credit card,successful,0.0,electronics,desktop,251.159.191.36,0,1.0,0.0
+CUST_111,55,Other,returning,50,930.36,credit card,successful,0.0,sports,tablet,228.22.208.123,0,0.0,0.0
+CUST_32,46,India,premium,47,164.78,debit card,successful,0.0,clothing,desktop,102.63.157.48,0,0.0,1.0
+CUST_362,55,UK,premium,4,869.44,credit card,successful,0.0,sports,tablet,79.153.137.189,0,0.0,0.0
+CUST_222,39,Other,premium,5,628.43,bank transfer,pending,0.0,sports,mobile,112.242.190.228,0,0.0,1.0
+CUST_65,24,Germany,returning,25,538.8,debit card,failed,0.0,other,mobile,44.133.223.118,0,0.0,0.0
+CUST_362,55,UK,premium,4,950.33,credit card,successful,1.0,home,desktop,202.121.132.199,0,0.0,5.0
+CUST_363,46,Other,returning,48,563.9,credit card,successful,0.0,other,desktop,193.188.23.146,0,0.0,2.0
+CUST_364,41,USA,,47,105.3,PayPal,successful,0.0,clothing,desktop,86.98.245.54,0,,1.0
+CUST_136,63,Other,new,18,670.87,debit card,successful,1.0,other,desktop,201.0.217.113,0,0.0,1.0
+CUST_365,64,USA,new,47,791.14,debit card,successful,,home,desktop,75.197.206.88,0,0.0,0.0
+CUST_366,54,Other,returning,23,331.19,debit card,successful,0.0,clothing,mobile,164.216.254.10,0,,2.0
+CUST_353,56,Other,new,13,914.62,bank transfer,successful,0.0,clothing,desktop,243.33.161.194,0,1.0,1.0
+CUST_127,49,India,returning,32,867.07,bank transfer,successful,0.0,clothing,tablet,155.195.72.21,0,0.0,2.0
+CUST_281,20,India,returning,43,523.05,PayPal,successful,0.0,sports,tablet,225.132.192.83,0,0.0,2.0
+CUST_47,61,Canada,premium,36,132.27,credit card,pending,0.0,home,tablet,84.252.15.6,0,1.0,0.0
+CUST_11,18,UK,returning,40,704.29,PayPal,successful,0.0,electronics,tablet,34.114.35.148,0,1.0,2.0
+CUST_127,49,India,returning,32,825.5,credit card,successful,0.0,clothing,mobile,172.243.176.8,0,0.0,0.0
+CUST_367,54,UK,new,17,676.81,PayPal,successful,1.0,home,tablet,12.130.167.220,0,0.0,1.0
+CUST_119,26,USA,new,11,639.29,credit card,successful,1.0,other,desktop,192.9.20.0,0,0.0,3.0
+CUST_365,64,USA,new,47,191.51,PayPal,successful,0.0,home,mobile,145.216.82.242,0,0.0,0.0
+CUST_146,21,USA,returning,4,925.76,credit card,successful,0.0,home,mobile,145.108.17.104,0,0.0,2.0
+CUST_368,60,Germany,new,40,500.53,bank transfer,pending,1.0,electronics,mobile,132.191.111.214,1,0.0,3.0
+CUST_369,59,UK,new,7,744.51,debit card,pending,0.0,clothing,mobile,98.190.44.6,0,0.0,1.0
+CUST_370,45,India,premium,13,946.29,credit card,successful,1.0,home,tablet,215.150.240.147,0,0.0,3.0
+CUST_298,48,UK,new,18,54.61,PayPal,failed,0.0,clothing,mobile,127.115.248.167,0,0.0,2.0
+CUST_227,21,UK,returning,35,557.96,debit card,successful,0.0,electronics,mobile,155.248.83.193,0,0.0,1.0
+CUST_371,54,Canada,returning,25,903.22,credit card,successful,0.0,clothing,tablet,89.11.127.207,0,0.0,1.0
+CUST_372,52,UK,new,7,57.43,PayPal,successful,1.0,sports,mobile,98.30.23.5,0,0.0,2.0
+CUST_373,39,Canada,new,26,796.95,debit card,successful,1.0,clothing,desktop,218.125.122.87,0,0.0,2.0
+CUST_374,43,Canada,new,4,167.96,PayPal,pending,0.0,home,desktop,53.75.212.41,0,0.0,0.0
+CUST_167,44,Germany,returning,20,323.82,PayPal,successful,1.0,other,mobile,145.197.61.198,0,0.0,2.0
+CUST_59,60,India,returning,46,716.26,bank transfer,successful,0.0,other,tablet,243.215.239.88,0,0.0,1.0
+CUST_228,49,Other,new,20,365.62,bank transfer,successful,0.0,clothing,mobile,6.186.200.125,0,1.0,2.0
+CUST_183,37,Canada,new,3,157.64,credit card,failed,0.0,home,tablet,181.127.82.11,0,0.0,2.0
+CUST_49,24,Germany,premium,37,773.37,credit card,successful,1.0,other,mobile,159.66.140.12,0,0.0,1.0
+CUST_312,44,UK,premium,47,149.15,debit card,successful,0.0,sports,desktop,147.22.192.44,0,0.0,0.0
+CUST_375,58,Canada,new,5,309.98,bank transfer,successful,0.0,clothing,mobile,236.65.35.138,0,0.0,2.0
+CUST_178,58,Other,new,32,847.47,credit card,pending,0.0,clothing,desktop,107.115.139.198,0,0.0,1.0
+CUST_220,18,Canada,premium,25,785.44,credit card,successful,0.0,electronics,desktop,44.220.203.153,1,0.0,2.0
+CUST_376,42,India,new,30,508.15,PayPal,successful,0.0,clothing,tablet,11.207.185.176,1,0.0,0.0
+CUST_38,29,Canada,,28,78.74,credit card,successful,0.0,home,tablet,145.205.57.67,0,0.0,0.0
+CUST_73,40,UK,new,8,352.25,bank transfer,successful,0.0,sports,tablet,20.2.0.145,0,1.0,2.0
+CUST_377,36,Other,returning,41,642.9,credit card,successful,0.0,electronics,mobile,173.184.106.27,0,0.0,2.0
+CUST_118,56,UK,returning,31,289.54,PayPal,successful,1.0,other,desktop,108.58.20.244,0,0.0,1.0
+CUST_11,18,UK,,40,882.36,credit card,successful,0.0,other,mobile,99.250.209.114,0,0.0,1.0
+CUST_177,65,Germany,new,10,509.9,credit card,failed,0.0,clothing,tablet,26.92.75.22,0,0.0,1.0
+CUST_378,20,Canada,returning,27,489.01,bank transfer,successful,0.0,clothing,desktop,125.71.31.54,0,0.0,1.0
+CUST_133,64,UK,new,49,326.58,bank transfer,successful,1.0,sports,desktop,244.71.217.83,0,0.0,3.0
+CUST_33,61,Canada,new,1,198.53,credit card,successful,0.0,electronics,tablet,235.237.124.146,0,1.0,1.0
+CUST_238,24,USA,returning,47,502.7,debit card,successful,1.0,sports,desktop,250.218.83.183,0,0.0,
+CUST_229,68,Other,new,35,164.44,bank transfer,successful,0.0,other,desktop,242.149.174.64,0,0.0,2.0
+CUST_379,41,UK,returning,49,750.18,debit card,successful,0.0,home,desktop,0.60.144.158,0,0.0,0.0
+CUST_330,54,USA,new,29,30.59,bank transfer,successful,0.0,home,tablet,246.60.144.241,0,0.0,0.0
+CUST_307,66,Canada,new,27,870.24,bank transfer,successful,0.0,sports,mobile,0.79.24.138,0,0.0,1.0
+CUST_135,64,India,returning,20,481.97,bank transfer,successful,0.0,other,desktop,52.203.87.126,0,1.0,1.0
+CUST_145,34,India,new,19,196.26,credit card,successful,0.0,electronics,tablet,37.236.164.237,0,0.0,2.0
+CUST_92,27,UK,new,25,983.84,credit card,successful,0.0,other,tablet,201.110.22.19,0,0.0,2.0
+CUST_303,41,India,new,47,732.13,PayPal,failed,1.0,home,tablet,166.129.61.249,0,,2.0
+CUST_380,31,USA,returning,39,264.53,credit card,successful,0.0,sports,tablet,201.50.28.37,0,0.0,0.0
+CUST_248,70,UK,premium,26,12.4,debit card,successful,0.0,other,tablet,171.117.29.227,0,0.0,0.0
+CUST_268,52,UK,returning,44,843.46,bank transfer,successful,0.0,clothing,mobile,75.159.199.219,0,0.0,1.0
+CUST_264,61,Germany,premium,35,326.58,bank transfer,pending,0.0,clothing,tablet,17.149.112.39,0,1.0,1.0
+CUST_381,61,UK,returning,41,184.05,debit card,successful,1.0,other,mobile,185.3.159.174,0,0.0,1.0
+CUST_125,53,India,premium,34,310.63,credit card,successful,0.0,other,tablet,28.168.195.38,0,0.0,2.0
+CUST_382,56,UK,new,19,968.12,debit card,successful,1.0,clothing,mobile,222.141.172.39,0,0.0,5.0
+CUST_207,55,Germany,new,40,796.96,PayPal,successful,0.0,electronics,tablet,227.230.249.112,0,0.0,1.0
+CUST_188,27,Canada,returning,48,556.58,bank transfer,successful,0.0,sports,desktop,187.1.238.105,0,0.0,2.0
+CUST_344,59,UK,new,18,951.2,bank transfer,successful,0.0,sports,desktop,217.71.165.194,0,0.0,0.0
+CUST_383,42,Canada,new,49,578.18,PayPal,pending,0.0,other,desktop,27.8.73.252,0,0.0,2.0
+CUST_368,60,Germany,new,40,445.48,bank transfer,successful,0.0,other,mobile,190.224.157.90,0,0.0,1.0
+CUST_102,25,Germany,new,30,486.29,credit card,successful,0.0,clothing,mobile,36.103.104.25,0,0.0,0.0
+CUST_223,30,USA,new,2,386.05,PayPal,successful,0.0,clothing,mobile,179.212.246.57,0,1.0,0.0
+CUST_333,32,Germany,premium,23,593.08,bank transfer,pending,0.0,home,tablet,60.103.219.251,0,0.0,0.0
+CUST_282,34,Canada,new,31,480.05,credit card,successful,1.0,sports,tablet,41.216.182.6,0,0.0,2.0
+CUST_94,46,India,new,10,297.31,PayPal,pending,0.0,electronics,mobile,244.186.186.98,0,0.0,2.0
+CUST_377,36,Other,returning,41,964.19,bank transfer,successful,0.0,other,mobile,79.185.59.11,0,0.0,2.0
+CUST_384,68,USA,premium,31,827.66,bank transfer,successful,0.0,other,desktop,199.41.243.41,0,0.0,2.0
+CUST_189,64,Canada,premium,1,86.82,credit card,successful,0.0,electronics,tablet,61.231.212.207,0,0.0,1.0
+CUST_237,42,Canada,returning,24,251.64,bank transfer,successful,0.0,clothing,mobile,37.126.55.217,0,0.0,1.0
+CUST_338,43,Germany,returning,46,718.23,bank transfer,successful,0.0,sports,desktop,191.121.10.226,0,0.0,1.0
+CUST_320,53,Other,returning,24,561.73,credit card,successful,0.0,sports,desktop,93.58.79.158,0,0.0,1.0
+CUST_244,23,Canada,returning,14,761.64,debit card,successful,0.0,sports,tablet,167.229.246.173,0,0.0,1.0
+CUST_368,60,Germany,new,40,917.88,PayPal,pending,0.0,home,desktop,33.63.201.115,0,0.0,1.0
+CUST_385,70,Other,new,19,768.43,debit card,successful,0.0,clothing,mobile,160.216.175.238,0,0.0,1.0
+CUST_57,57,India,premium,38,254.63,debit card,successful,0.0,clothing,mobile,92.210.125.204,0,0.0,1.0
+CUST_356,68,USA,returning,6,76.62,debit card,pending,0.0,electronics,desktop,55.190.149.82,0,0.0,0.0
+CUST_386,50,Other,,46,480.87,debit card,successful,1.0,electronics,desktop,193.188.130.112,0,0.0,3.0
+CUST_170,46,USA,new,23,168.21,PayPal,successful,0.0,sports,desktop,87.98.173.64,0,0.0,1.0
+CUST_305,45,Canada,premium,4,312.04,debit card,pending,0.0,other,mobile,229.39.72.111,0,1.0,
+CUST_156,25,India,new,17,440.81,credit card,pending,0.0,electronics,desktop,75.147.197.161,0,0.0,1.0
+CUST_135,64,India,returning,20,64.73,PayPal,failed,0.0,clothing,desktop,117.34.34.172,0,0.0,
+CUST_61,26,Canada,new,32,775.21,bank transfer,successful,1.0,electronics,tablet,92.186.194.186,0,0.0,2.0
+CUST_387,22,Other,premium,31,994.15,credit card,successful,0.0,home,tablet,127.150.133.4,0,0.0,2.0
+CUST_388,63,UK,returning,4,465.95,debit card,successful,0.0,other,mobile,229.83.212.52,0,0.0,1.0
+CUST_86,19,India,premium,2,872.05,bank transfer,successful,0.0,electronics,mobile,251.80.249.244,0,,0.0
+CUST_245,67,India,premium,2,997.97,debit card,pending,0.0,clothing,mobile,171.163.165.136,0,0.0,2.0
+CUST_236,21,USA,returning,28,900.88,PayPal,pending,,sports,mobile,57.203.84.127,0,0.0,2.0
+CUST_56,69,USA,new,21,639.73,PayPal,successful,0.0,other,tablet,18.223.224.78,0,0.0,2.0
+CUST_69,56,India,new,10,790.61,PayPal,pending,0.0,sports,tablet,202.144.201.166,0,0.0,0.0
+CUST_246,66,UK,premium,11,901.81,debit card,failed,0.0,sports,mobile,42.207.152.128,0,0.0,2.0
+CUST_25,45,India,premium,9,392.54,PayPal,failed,0.0,home,mobile,220.6.7.175,0,0.0,0.0
+CUST_389,35,India,returning,17,874.29,debit card,successful,0.0,electronics,desktop,153.140.105.31,0,0.0,1.0
+CUST_258,21,India,new,19,918.01,credit card,successful,0.0,clothing,mobile,205.244.1.114,0,0.0,1.0
+CUST_390,19,Germany,returning,12,909.0,credit card,successful,1.0,other,tablet,69.250.229.17,0,1.0,3.0
+CUST_391,24,India,new,37,777.16,debit card,successful,0.0,home,mobile,197.5.51.45,0,0.0,1.0
+CUST_392,61,UK,premium,19,536.52,credit card,pending,0.0,other,mobile,109.162.20.62,0,0.0,1.0
+CUST_23,61,Germany,new,11,721.96,credit card,pending,1.0,other,desktop,144.175.82.212,0,0.0,4.0
+CUST_344,59,UK,new,18,993.03,PayPal,successful,0.0,electronics,desktop,124.73.214.238,0,0.0,2.0
+CUST_262,22,Canada,new,35,722.45,PayPal,successful,1.0,other,desktop,14.207.211.219,0,0.0,5.0
+CUST_185,51,USA,new,21,545.07,bank transfer,successful,0.0,clothing,mobile,11.58.116.139,0,0.0,1.0
+CUST_37,33,Germany,,49,59.58,credit card,successful,0.0,sports,mobile,186.113.229.8,0,0.0,1.0
+CUST_329,53,Germany,new,6,155.29,debit card,failed,0.0,electronics,tablet,241.197.156.91,0,0.0,0.0
+CUST_393,49,India,new,20,623.23,PayPal,pending,0.0,other,mobile,12.237.230.39,0,1.0,1.0
+CUST_351,28,Other,new,37,38.55,debit card,successful,0.0,electronics,tablet,235.250.125.191,0,0.0,0.0
+CUST_251,66,USA,new,31,481.54,credit card,successful,1.0,home,desktop,165.78.234.173,0,0.0,4.0
+CUST_394,41,Canada,premium,35,840.49,debit card,successful,0.0,electronics,tablet,223.217.167.166,0,0.0,2.0
+CUST_370,45,India,premium,13,299.32,credit card,failed,0.0,electronics,mobile,79.129.121.54,1,0.0,0.0
+CUST_395,33,USA,returning,11,448.09,credit card,successful,0.0,home,mobile,208.166.29.171,0,0.0,0.0
+CUST_324,59,India,returning,46,927.25,bank transfer,pending,0.0,electronics,tablet,62.232.143.79,0,0.0,2.0
+CUST_396,59,Germany,new,9,582.77,debit card,successful,0.0,home,tablet,7.70.231.250,0,0.0,1.0
+CUST_11,18,UK,returning,40,138.15,credit card,successful,0.0,other,mobile,51.223.188.88,0,1.0,0.0
+CUST_397,40,Canada,returning,24,828.82,credit card,successful,0.0,sports,tablet,134.222.236.192,1,1.0,0.0
+CUST_246,66,UK,premium,11,696.48,PayPal,successful,0.0,home,desktop,74.38.149.19,0,0.0,0.0
+CUST_238,24,USA,returning,47,18.19,PayPal,failed,0.0,other,tablet,172.45.126.69,0,0.0,
+CUST_398,60,Germany,new,36,436.9,debit card,successful,0.0,clothing,desktop,2.216.202.136,0,0.0,1.0
+CUST_259,60,Canada,returning,46,348.59,debit card,successful,0.0,home,tablet,107.100.118.191,0,0.0,0.0
+CUST_399,69,USA,new,33,743.66,credit card,successful,0.0,clothing,mobile,159.47.194.154,0,0.0,0.0
+CUST_400,20,India,returning,39,856.1,bank transfer,successful,0.0,other,mobile,95.201.157.172,0,0.0,1.0
+CUST_204,69,USA,returning,37,446.35,debit card,successful,0.0,sports,mobile,175.69.29.71,0,1.0,1.0
+CUST_215,55,Germany,new,7,811.97,debit card,successful,0.0,other,mobile,134.137.244.146,0,0.0,2.0
+CUST_401,41,USA,new,11,115.96,bank transfer,successful,1.0,sports,desktop,122.59.10.50,0,0.0,2.0
+CUST_323,51,Canada,returning,18,508.42,debit card,successful,0.0,sports,tablet,185.137.106.183,0,0.0,0.0
+CUST_92,27,UK,new,25,382.0,debit card,successful,0.0,sports,desktop,231.72.173.4,0,0.0,1.0
+CUST_366,54,Other,,23,958.46,PayPal,successful,0.0,sports,desktop,237.196.188.51,0,0.0,0.0
+CUST_402,43,Canada,new,39,28.35,credit card,successful,0.0,home,mobile,198.181.136.204,0,0.0,1.0
+CUST_161,25,Germany,new,35,760.25,credit card,successful,,clothing,tablet,17.1.139.64,0,0.0,1.0
+CUST_129,20,USA,new,47,488.99,bank transfer,successful,0.0,electronics,desktop,167.20.72.132,0,0.0,2.0
+CUST_257,69,Germany,returning,34,670.81,bank transfer,successful,0.0,clothing,desktop,131.76.18.114,0,0.0,1.0
+CUST_195,51,Other,returning,13,709.08,PayPal,successful,1.0,sports,tablet,232.254.11.211,0,0.0,1.0
+CUST_182,46,Germany,returning,14,104.03,credit card,failed,0.0,electronics,tablet,38.148.133.63,0,0.0,0.0
+CUST_261,56,Germany,new,38,535.14,bank transfer,successful,0.0,home,desktop,136.212.224.53,0,0.0,0.0
+CUST_116,23,USA,new,42,133.94,PayPal,successful,1.0,electronics,tablet,182.111.169.172,0,0.0,5.0
+CUST_403,40,India,premium,37,473.32,PayPal,successful,0.0,other,mobile,232.11.137.181,0,0.0,2.0
+CUST_280,59,India,premium,32,542.57,PayPal,successful,0.0,home,mobile,245.11.32.94,1,0.0,2.0
+CUST_404,63,Canada,returning,14,140.82,PayPal,successful,0.0,other,mobile,206.29.166.204,0,0.0,0.0
+CUST_330,54,USA,new,29,778.06,credit card,successful,0.0,other,desktop,158.96.92.122,1,0.0,1.0
+CUST_405,36,Germany,,32,713.52,debit card,successful,0.0,electronics,mobile,174.166.227.75,0,0.0,1.0
+CUST_155,65,UK,premium,22,19.73,PayPal,successful,0.0,home,mobile,163.181.59.185,0,,2.0
+CUST_406,66,UK,premium,48,359.19,credit card,pending,0.0,other,desktop,100.155.32.109,0,0.0,0.0
+CUST_121,56,Other,new,42,799.77,PayPal,successful,0.0,other,tablet,74.91.140.208,0,0.0,0.0
+CUST_407,26,India,returning,43,533.19,credit card,successful,,clothing,desktop,222.90.203.188,0,0.0,2.0
+CUST_316,66,Other,premium,23,297.72,bank transfer,successful,0.0,clothing,desktop,109.206.220.12,0,0.0,1.0
+CUST_404,63,Canada,returning,14,671.91,debit card,pending,0.0,other,desktop,48.170.139.247,0,0.0,1.0
+CUST_3,47,Other,new,34,822.99,bank transfer,successful,0.0,electronics,mobile,43.92.182.245,0,0.0,2.0
+CUST_408,25,Germany,returning,37,294.89,debit card,failed,0.0,home,desktop,12.122.233.246,0,0.0,1.0
+CUST_409,24,Canada,returning,1,242.77,PayPal,successful,0.0,sports,mobile,120.117.173.220,0,0.0,1.0
+CUST_340,46,India,returning,43,846.44,debit card,successful,0.0,clothing,tablet,10.70.61.77,0,0.0,2.0
+CUST_283,40,Canada,new,6,318.44,PayPal,successful,0.0,clothing,desktop,31.118.43.215,1,0.0,1.0
+CUST_410,22,Canada,returning,34,852.12,bank transfer,successful,0.0,other,desktop,241.206.12.95,0,,0.0
+CUST_411,53,UK,new,12,471.6,PayPal,successful,0.0,other,desktop,232.32.226.174,1,0.0,0.0
+CUST_161,25,Germany,new,35,814.39,PayPal,successful,1.0,other,mobile,190.189.129.205,0,0.0,1.0
+CUST_176,22,UK,new,50,852.71,bank transfer,successful,0.0,clothing,tablet,53.169.194.16,0,0.0,0.0
+CUST_327,44,UK,new,49,107.84,debit card,successful,,sports,desktop,17.130.176.10,0,0.0,0.0
+CUST_412,26,Germany,returning,31,614.7,credit card,successful,1.0,home,tablet,247.188.152.52,0,0.0,4.0
+CUST_413,35,Other,new,49,766.85,credit card,successful,0.0,clothing,mobile,174.9.190.34,0,0.0,2.0
+CUST_59,60,India,returning,46,74.45,bank transfer,successful,0.0,other,mobile,227.102.18.126,0,1.0,1.0
+CUST_414,22,Other,new,34,471.59,bank transfer,successful,1.0,clothing,desktop,216.199.155.169,0,0.0,1.0
+CUST_333,32,Germany,premium,23,97.55,PayPal,successful,0.0,other,tablet,189.175.200.59,0,0.0,2.0
+CUST_415,24,India,premium,19,252.79,bank transfer,successful,1.0,clothing,desktop,93.35.222.250,0,1.0,3.0
+CUST_416,66,Germany,new,11,595.49,debit card,successful,0.0,sports,mobile,94.24.132.228,0,0.0,2.0
+CUST_206,69,Other,premium,39,205.85,debit card,failed,1.0,electronics,desktop,47.195.206.148,0,,2.0
+CUST_32,46,India,premium,47,124.84,debit card,successful,1.0,home,tablet,230.40.154.102,0,0.0,2.0
+CUST_417,35,Germany,new,15,920.96,bank transfer,successful,0.0,home,mobile,241.149.1.8,0,0.0,2.0
+CUST_208,64,UK,returning,34,302.83,bank transfer,successful,1.0,other,desktop,231.28.103.83,0,0.0,3.0
+CUST_418,21,Other,returning,19,226.21,credit card,successful,1.0,other,mobile,81.73.204.116,0,0.0,3.0
+CUST_419,56,UK,new,12,214.66,bank transfer,successful,0.0,home,desktop,172.52.98.45,0,0.0,1.0
+CUST_302,18,Canada,returning,39,283.84,PayPal,successful,0.0,electronics,tablet,221.87.184.246,1,0.0,0.0
+CUST_166,60,USA,returning,18,714.4,bank transfer,failed,0.0,home,mobile,216.22.181.255,1,0.0,2.0
+CUST_420,45,India,returning,25,867.57,PayPal,successful,0.0,electronics,desktop,20.26.190.125,0,0.0,2.0
+CUST_222,39,Other,premium,5,436.55,PayPal,pending,0.0,clothing,mobile,9.247.88.32,0,0.0,0.0
+CUST_410,22,Canada,returning,34,317.71,PayPal,successful,0.0,other,tablet,189.242.66.195,0,1.0,2.0
+CUST_421,44,India,new,15,623.98,bank transfer,successful,1.0,home,desktop,218.130.31.224,0,0.0,4.0
+CUST_141,33,Canada,premium,12,138.42,credit card,successful,0.0,clothing,tablet,249.161.160.3,0,0.0,1.0
+CUST_176,22,UK,new,50,379.19,credit card,successful,0.0,clothing,mobile,235.249.131.160,0,0.0,0.0
+CUST_422,59,India,new,12,48.45,credit card,successful,1.0,electronics,mobile,112.106.15.246,0,1.0,1.0
+CUST_423,52,Germany,new,20,57.97,PayPal,successful,0.0,other,tablet,76.80.226.207,0,1.0,1.0
+CUST_424,65,USA,premium,8,275.87,credit card,failed,1.0,other,tablet,133.99.156.194,0,0.0,2.0
+CUST_306,51,UK,returning,40,615.88,credit card,pending,0.0,sports,mobile,222.50.27.175,0,0.0,2.0
+CUST_246,66,UK,premium,11,989.08,bank transfer,successful,0.0,home,desktop,170.6.123.203,0,0.0,
+CUST_425,41,Other,premium,39,669.54,bank transfer,successful,1.0,clothing,mobile,14.241.8.205,0,0.0,4.0
+CUST_163,69,Other,returning,17,949.42,PayPal,successful,0.0,clothing,tablet,76.17.80.11,0,0.0,1.0
+CUST_314,21,UK,premium,28,427.89,bank transfer,successful,0.0,other,mobile,3.68.117.53,0,0.0,0.0
+CUST_418,21,Other,returning,19,274.25,bank transfer,pending,1.0,sports,tablet,152.247.179.87,0,0.0,5.0
+CUST_426,37,USA,new,17,296.35,credit card,successful,0.0,clothing,tablet,120.207.177.62,0,1.0,2.0
+CUST_395,33,USA,returning,11,274.13,PayPal,pending,0.0,other,tablet,229.155.2.166,0,0.0,1.0
+CUST_333,32,Germany,premium,23,306.02,bank transfer,successful,0.0,sports,mobile,25.199.127.197,0,0.0,1.0
+CUST_427,48,Germany,returning,36,471.03,bank transfer,successful,1.0,sports,desktop,47.247.61.9,0,0.0,1.0
+CUST_93,28,UK,,28,408.25,debit card,successful,0.0,electronics,tablet,7.180.63.206,0,0.0,1.0
+CUST_428,27,USA,new,38,994.81,debit card,pending,0.0,sports,mobile,201.103.255.218,0,0.0,0.0
+CUST_429,24,USA,new,48,985.54,PayPal,successful,0.0,home,mobile,217.44.232.77,0,1.0,0.0
+CUST_430,52,UK,new,4,868.7,debit card,successful,0.0,electronics,mobile,81.49.240.39,0,0.0,2.0
+CUST_92,27,UK,new,25,475.61,credit card,successful,1.0,home,desktop,219.121.216.82,0,0.0,1.0
+CUST_431,37,UK,new,14,956.92,debit card,successful,0.0,home,tablet,88.163.177.43,0,0.0,0.0
+CUST_432,38,UK,returning,46,672.34,debit card,successful,0.0,sports,tablet,97.160.117.95,0,0.0,0.0
+CUST_365,64,USA,new,47,994.83,bank transfer,successful,1.0,sports,tablet,73.232.82.126,0,0.0,5.0
+CUST_196,60,Germany,returning,12,278.7,bank transfer,successful,1.0,other,desktop,66.157.136.75,1,1.0,5.0
+CUST_433,41,USA,premium,17,318.78,bank transfer,successful,0.0,sports,desktop,166.25.20.152,0,,2.0
+CUST_434,64,USA,new,21,202.33,bank transfer,successful,0.0,home,mobile,122.5.161.68,1,0.0,0.0
+CUST_18,35,Canada,new,45,191.57,PayPal,successful,1.0,other,mobile,31.45.254.83,0,0.0,2.0
+CUST_270,62,Canada,premium,24,458.94,PayPal,successful,0.0,clothing,desktop,155.48.62.179,0,0.0,1.0
+CUST_435,26,UK,new,43,237.1,bank transfer,successful,0.0,electronics,mobile,59.250.194.239,0,0.0,0.0
+CUST_241,61,Germany,new,4,678.03,bank transfer,successful,,home,desktop,13.197.93.231,0,0.0,
+CUST_428,27,USA,new,38,643.43,debit card,successful,,electronics,desktop,51.199.142.221,0,0.0,4.0
+CUST_174,61,Canada,,42,138.34,PayPal,successful,1.0,electronics,tablet,71.52.142.157,0,0.0,2.0
+CUST_389,35,India,returning,17,618.04,debit card,failed,0.0,sports,desktop,166.154.75.54,0,0.0,1.0
+CUST_345,39,Germany,premium,4,743.87,debit card,successful,0.0,sports,desktop,215.23.176.73,0,,2.0
+CUST_414,22,Other,new,34,406.23,bank transfer,pending,0.0,electronics,tablet,65.62.209.32,0,0.0,2.0
+CUST_331,51,India,returning,43,180.74,debit card,successful,0.0,sports,tablet,31.232.78.164,0,0.0,0.0
+CUST_91,70,India,premium,17,557.32,credit card,pending,1.0,other,tablet,110.183.40.120,0,0.0,4.0
+CUST_410,22,Canada,returning,34,781.55,bank transfer,pending,0.0,electronics,mobile,123.51.109.235,1,0.0,0.0
+CUST_107,52,USA,new,22,720.02,debit card,pending,1.0,sports,desktop,192.232.240.167,0,0.0,5.0
+CUST_436,51,Other,premium,34,306.54,debit card,successful,0.0,home,desktop,248.16.92.205,0,0.0,1.0
+CUST_431,37,UK,new,14,851.74,PayPal,successful,1.0,electronics,desktop,61.221.46.233,0,0.0,5.0
+CUST_437,53,Canada,returning,14,168.66,PayPal,successful,1.0,clothing,tablet,54.80.178.196,0,0.0,4.0
+CUST_180,66,India,premium,31,309.58,credit card,successful,0.0,other,mobile,51.52.128.24,0,0.0,1.0
+CUST_278,19,USA,returning,36,981.18,credit card,successful,0.0,other,mobile,95.250.178.175,0,0.0,2.0
+CUST_20,20,USA,new,44,699.49,PayPal,successful,1.0,other,mobile,102.121.141.220,0,0.0,2.0
+CUST_438,66,India,new,3,976.24,bank transfer,successful,0.0,sports,mobile,254.24.50.97,0,1.0,0.0
+CUST_358,27,UK,new,24,924.53,bank transfer,successful,0.0,clothing,mobile,49.142.226.81,0,0.0,2.0
+CUST_364,41,USA,new,47,581.88,credit card,successful,0.0,electronics,desktop,161.12.154.81,0,0.0,2.0
+CUST_8,64,Germany,premium,40,235.02,PayPal,successful,0.0,sports,tablet,102.240.207.192,0,0.0,1.0
+CUST_439,64,USA,new,15,379.03,credit card,successful,0.0,electronics,tablet,11.211.93.211,0,0.0,1.0
+CUST_284,18,UK,returning,44,135.51,bank transfer,successful,0.0,sports,desktop,0.1.191.147,0,,0.0
+CUST_412,26,Germany,returning,31,853.82,debit card,successful,0.0,electronics,mobile,74.239.74.205,0,0.0,0.0
